@@ -1,0 +1,45 @@
+<h1><%= @feedback %></h1>
+<h5><%= "You have #{attempt_number} attempts left." unless attempt_is_correct %></h5>
+<h3><%= @current_question_wording %></h3>
+
+
+<% if @status == 'reset' %>
+	<form action="/quizmaster?quiz=<%= params[:quiz] %>" method='post'>
+		<input type='text' name='answer_attempt'/>
+		<input type='submit'/>
+	</form>
+
+<% elsif @status == "incorrect" %>
+	
+	<% @attempts.each do |attempt| %>
+		<h3><i><%= attempt %></i></h3>
+	<% end %>
+
+	<form action="/quizmaster?quiz=<%= params[:quiz] %>" method='post'>
+		<input type='text' name='answer_attempt'/>
+		<input type='submit'/>
+	</form>
+
+
+<% elsif @status == "failure" %>
+
+	<% @attempts.each do |attempt| %>
+		<h3><i><%= attempt %></i></h3>
+	<% end %>
+
+	<h2><%= @current_question_answer %></h2>
+
+
+<% elsif @status == "correct" %>
+
+	<% @attempts.each do |attempt| %>
+		<% if attempt == @attempts[-1] %>
+			<h2><%= attempt %></h2>
+		<% else %>
+			<h3><i><%= attempt %></i></h3>
+		<% end %>	
+	<% end %>
+
+<% end %>	 
+
+<%= params %>
