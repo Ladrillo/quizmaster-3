@@ -1,3 +1,0 @@
-<% @pairs.each do |pair| %>
-	<%= pair %></br>
-	<% end %>

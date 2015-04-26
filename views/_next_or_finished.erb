@@ -1,0 +1,7 @@
+<% if !quiz_finished %>
+  <a href="/quizmaster?quiz=<%= params[:quiz] %>&q=<%= params[:q].to_i+1 %>">Next question</a>
+<% else %>
+  <h1>The quiz is over!</h1>
+  <a href="/quizmaster?quiz=<%= params[:quiz] %>&q=0">Restart the quiz</a></br>
+  <a href="/">Select a different quiz</a>
+<% end %> 

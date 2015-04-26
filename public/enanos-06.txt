@@ -1,6 +1,6 @@
 Yo normalmente bebo café.
-/I (usually|normally|ordinarily|as a rule) (drink|have) coffee\?/
-Mi hermana está bebiendo agua.
-/My (sister is|sister's) (drinking|having)( some)? water\./
+/I (usually|normally|ordinarily|as a rule) (drink|have) coffee\./
 Mis padres tomaron algo de pizza.
 /My parents (had|ate|(fuckin'|motherfuckin') tried) some pizza\./
+¿Me ves?
+/Do you see me\?/
