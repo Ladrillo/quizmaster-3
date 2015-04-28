@@ -1,0 +1,16 @@
+Aunque estábamos cansados, no pudimos dormir.
+/ (Although|Even though|Though) we were tired, we (couldn't|could not|were not able to|weren't able to|were unable to) sleep\./
+A pesar de todos los problemas, intenté sonreir.
+/ (Despite|In spite of) all the problems, I tried to smile\./
+Ellos encontraron el anillo de ella, aunque no fue tan fácil.
+/They found her ring, (though|although|even though) it (wasn't|was not) (so|as|that) easy\./
+Ella no me ama, a pesar del hecho de que soy el mejor.
+/She (doesn't|does not) love me, (in spite of|despite) the fact( that)? (I'm|I am) the best\./
+A pesar de estar ocupada, ella parecía contenta.
+/Despite being busy, she (seemed|looked) happy\./
+No fuimos a la playa a causa del viento.
+/We (did not|didn't) go to the beach because of the wind\./
+Me gusta cazar, aunque me gusta más pescar.
+/I (like|enjoy) hunting, (though|although|even though) I (like fishing more|enjoy fishing more|prefer fishing)\./
+A pesar de lo que has oído, esa persona no es un miembro del partido.
+/ (In spite of|Despite) what (you've|you have) heard, that (person isn't|person is not|person's not) a member of the party\./

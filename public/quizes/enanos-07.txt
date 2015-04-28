@@ -1,0 +1,48 @@
+¿Dónde trabajan tus padres?
+/Where do your parents work\?/
+¿Cuántos años tienen tus padres?
+/How old are your parents\?/
+¿Dónde estudia tu hermana?
+/Where does your sister (study|go to school)\?/
+¿Sabe tu tío mi nombre?
+/Does your uncle know my name\?/
+¿Sueles jugar a futbol?
+/Do you (usually|normally) play (football|soccer)\?/
+¿Por qué está tu tía en la cama?
+/Why is your aunt in bed\?/
+¿Dónde compran ellos alcohol?
+/Where do they buy alcohol\?/
+Estoy esperándote.
+/ (I am|I'm) waiting for you\./
+Nuestros primos están tomando pizza.
+/Our cousins are (having|eating)( some)? pizza\./
+¿Estás haciendo tu cama?
+/Are you making your bed\?/
+Tomé un zumo de naranja para desayunar.
+/I (had|drank|took) (some orange|an orange) juice for breakfast\./
+El pájaro voló mil kilómetros.
+/The bird flew (a|one) thousand (kilometers|kilometres)\./
+No teníamos tanto dinero.
+/We (did not have|didn't have|hadn't got|hadn't|had not got) so much money\./
+Ella me quería un montón.
+/She loved me (very much|a lot)\./
+A las cinco en punto yo estaba conduciendo mi coche.
+/At five( o'clock)? I was driving my (car|automobile)\./
+Yo he estudiado cinco páginas.
+/ (I have|I've) studied five pages\./
+¿Has estado en París alguna vez?
+/Have you ever (been to|visited|stayed in) Paris\?/
+¿Qué has hecho?
+/What have you (made|done)\?/
+Tú tienes que estudiar.
+/You (have to|must) study\./
+¿Dónde podemos hablar?
+/Where can we (talk|speak)\?/
+Ellos deberían escuchar a la profesora.
+/They (should|ought to) listen to the teacher\./
+Creo que Osasuna ganará.
+/I (think|believe)( that)? Osasuna (will|is going to) win\./
+Yo soy más rápido pero no más alto.
+/ (I'm|I am) (quicker|faster) but not taller\./
+Peter no es tan fuerte como su padre.
+/Peter (is not|isn't) as strong as his (father|dad)\./

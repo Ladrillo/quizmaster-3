@@ -1,0 +1,24 @@
+Los habitantes actuales pertenecen a la familia Smith.
+/The current inhabitants belong to the Smith family\./
+Él solía trabajar aquí.
+/He used to work here\./
+Exposición de arte.
+/(Art exhibition|Exhibition of art)\./
+La biblioteca está cerrada los domingos.
+/The library is closed on Sundays\./
+Ellos suministran escobas.
+/They supply brooms\./
+Hay entre 10 y 15 personas.
+/There are between (10|ten) and (15|fifteen) (persons|people)\./
+Yo no estoy disponible.
+/(I'm|I am) not available\./
+La mesa está junto a la puerta.
+/The (table|desk) is (by|next to|near) the door\./
+A veces llueve.
+/It (sometimes rains|rains sometimes)\./
+Habitualmente llueve.
+/It usually rains\./
+Hasta hace poco él era mi amigo.
+/Until recently he was my friend\./
+He estado aquí una o dos veces.
+/(I have|I've) been here once or twice\./

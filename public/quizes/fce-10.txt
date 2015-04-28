@@ -1,0 +1,30 @@
+Ella habla demasiado rápido como para (yo) entender lo que dice.
+/She (speaks|talks) too (fast|quickly) for me to (understand|follow) (her|what she says|what she is saying)\./
+Los átomos son demasiado pequeños para ser vistos.
+/Atoms are too (small|tiny|little) to be seen\./
+Fue un comentario realmente malintencionado.
+/It was a (very|really) mean (remark|comment|observation)\./
+¿Qué quieres decir? (Usar 'mean'.)
+/What do you mean\?/
+Yo no tenía la intención de hacerte daño. (Usar 'mean'.)
+/I (didn't|did not) mean to hurt you\./
+He hecho preparativos para esta noche. (No usar 'preparations' ni 'plans'.)
+/ (I have|I've) made arrangements for tonight\./
+No puedo llegar a fin de mes.
+/I (can not|cannot|can't) make ends meet\./
+Se teme que el barco se ha hundido. (Comenzar por 'The...')
+/The (boat|ship) is feared to have sunk\./
+Las mentiras de él nos impidieron conocer la verdad.
+/His lies prevented us from (learning|knowing|realizing|realising|finding out|figuring out) the truth\./
+Peter parece estar cansado. (Comenzar por 'Peter...')
+/Peter (seems|appears)( to be)? tired\./
+Peter parece haberse vuelto loco. (Comenzar por 'Peter...')
+/Peter (seems|appears) to have (gone mad|gone crazy|lost his mind|lost his marbles)\./
+Ella hizo pintar su casa de rojo.
+/She (got|had) her (house|home) painted( in)? red\./
+Ella insistió en hacer pintar su casa de rojo.
+/She insisted on (having|getting) her (house|home) painted( in)? red\./
+Si él se hubiese marchado antes nada habría pasado.
+/If he had (left|gone) (sooner|earlier) (nothing|none of this) (would have|would've) (happened|occurred)\./
+Él regresó a casa antes del amanecer.
+/He (came back|returned|arrived|went|got) home before( the)? (dawn|sunrise)\./

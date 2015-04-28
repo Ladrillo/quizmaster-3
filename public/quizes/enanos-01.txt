@@ -1,0 +1,52 @@
+Yo bebo agua.
+/I drink water\./
+Yo estoy bebiendo agua.
+/ (I'm|I am) drinking water\./
+Yo bebí agua.
+/I drank water\./
+Yo estaba bebiendo agua.
+/I was drinking water\./
+Yo he bebido agua.
+/ (I've|I have) drunk water\./
+Yo he estado bebiendo agua.
+/ (I've|I have) been drinking water\./
+Yo había bebido agua.
+/ (I had|I'd) drunk water\./
+Él no conduce.
+/He (doesn't|does not) drive\./
+Él no está conduciendo.
+/ (He's not|He is not|He isn't) driving\./
+Él no condujo.
+/He (didn't|did not) drive\./
+Él no estaba conduciendo.
+/He (wasn't|was not) driving\./
+Él no ha conducido.
+/ (He's not|He has not|He hasn't) driven\./
+Él no ha estado conduciendo.
+/ (He's not|He has not|He hasn't) been driving\./
+Él no había conducido.
+/ (He had not|He'd not|He hadn't) driven\./
+¿Fumas?
+/Do you smoke\?/
+¿Estás fumando?
+/Are you smoking\?/
+¿Fumabas?
+/Did you smoke\?/
+¿Estabas fumando?
+/Were you smoking\?/
+¿Has fumado?
+/Have you smoked\?/
+¿Has estado fumando?
+/Have you been smoking\?/
+¿Habías fumado?
+/Had you smoked\?/
+Tú puedes estudiar.
+/You can study\./
+Tú podrías estudiar.
+/You could study\./
+Tú deberías estudiar.
+/You (should|ought to) study\./
+Tú debes estudiar.
+/You must study\./
+Tú estudiarás.
+/ (You'll|You will) study\./

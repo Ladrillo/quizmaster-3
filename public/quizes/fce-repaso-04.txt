@@ -1,0 +1,44 @@
+Me quedé en casa para evitar pillar un resfriado. ORDER
+/I (stayed|remained)( at)? home in order to avoid (getting|catching) a cold\./
+Se supone que él está al mando. CHARGE
+/ (He's|He is) supposed to be in charge\./
+Prefiero esperar. TO
+/I prefer to wait\./
+Prefiero esperar. RATHER
+/ (I'd|I would) rather wait\./
+Todo depende del espesor del muro. THICK
+/(It all|Everything) depends on how thick the wall is\./
+Todo depende del espesor del muro. THICKNESS
+/(It all|Everything) depends on the thickness of the wall\./
+Lamento no haberte escuchado. HAVING
+/I regret not having listened to you\./
+Lamento no haberte escuchado. LISTENING
+/I regret not listening to you\./
+A pesar de los daños, el edificio no fue evacuado. DAMAGE
+/Despite the damage, the building (wasn't|was not) evacuated\./
+La tormenta les impidió alcanzar el refugio. PREVENTED
+/The storm prevented them from reaching( the)? shelter\./
+Samsung está presumiendo del nuevo modelo Galaxy. OFF
+/ (Samsung is|Samsung are|Samsung's) (showing off the new Galaxy model|showing the new Galaxy model off)\./
+La búsqueda fue suspendida por el mal tiempo. OFF
+/The search was called off (due to|because of)( the)? bad weather\./
+Un incendio tan grande será imposible de apagar. SO, PUT
+/A fire (that|so) (large|great|big) will be impossible to put out\./
+No merece la pena esperar más. POINT
+/ (There's no|There is no|There isn't any) point in waiting( any)? longer\./
+Eso son viejas noticias. NEWS
+/ (That is|That's) old news\./
+Me doy cuenta de que estás ocupado. REALIZE
+/I realize( that)? (you're|you are) busy\./
+Él pulsó el botón equivocado por error. WRONG
+/He (pressed|pushed) the wrong button by mistake\./
+Ella me preguntó si yo lideraría la expedición. LEAD
+/She asked me (if|whether) (I'd|I would) lead the expedition\./
+Quizá él cambió de opinión. MIGHT
+/He might have changed his mind\./
+Eso es muy improbable. UNLIKELY
+/ (That's|That is) (highly|very) unlikely\./
+La aseguradora nos está timando. RIPPING
+/The insurance (company's|company is) ripping us off\./
+Te advertí que no contaras esa historia. AGAINST
+/I warned you against telling that story\./

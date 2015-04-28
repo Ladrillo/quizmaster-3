@@ -1,0 +1,26 @@
+Hay un pequeño problema, no quedan galletas.
+/ (There's|There is) (one|a) (small|little) problem, there (aren't any|are not any|aren't|are not|are no) cookies left\./
+Entre tú y yo, este profesor está entre los mejores que he tenido.
+/Between you and me, this teacher is among the best( teachers)?( that)? (I've|I have)( ever)? had\./
+No estoy de humor, entre otras cosas.
+/ (I'm not in the|I am not in the|I am in no|I'm in no) mood, among other things\./
+Era vital para él encontrar un buen médico.
+/It was vital for him to find a good doctor\./
+Encontrar un buen médico era vital para él.
+/Finding a good doctor was vital for him\./
+La pared no es lo suficientemente gruesa.
+/The wall (is not|isn't) thick enough\./
+El espesor de la pared no es suficiente.
+/ (The thickness of the wall|The wall's thickness) (isn't|is not) enough\./
+¿Cómo de profundo es este lago? ¿Cuál es su profundidad en el centro?
+/How deep is this lake\? (What's|What is) (its|the) depth at (the|its) (center|centre)\?/
+Lamento haber venido a clase. Esto es tan aburrido!
+/I regret (coming|having come) to class. This is so boring!/
+Mira! Los zapatos están de rebajas.
+/Look! The shoes are on sale\./
+A pesar del ruido pudimos hablar.
+/Despite the noise we (were able to|could|managed to) (talk|speak)\./
+Aunque los niños eran ruidosos, pudimos hablar.
+/ (Even though|Though|Although) the (children|boys|kids) were noisy, we (were able to|could|managed to) (talk|speak)\./
+No preguntes siempre a Gabriel. Búscalo en el dictionario.
+/ (Don't|Do not) always ask Gabriel\. Look it up in the dictionary\./

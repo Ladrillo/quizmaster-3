@@ -1,0 +1,54 @@
+Yo bebo.
+/I( do)? drink\./
+Yo bebo.
+/I( do)? drink\./
+Ella bebe.
+/She (does drink|drinks)\./
+Ella bebe.
+/She (does drink|drinks)\./
+Yo no bebo.
+/I (don't|do not) drink\./
+¿Bebes tú?
+/Do you drink\?/
+¿Dónde bebes?
+/Where do you drink\?/
+¿Cuándo bebes?
+/When do you drink\?/
+Mi madre no conduce.
+/My mother (does not|doesn't) drive\./
+Yo trabajo.
+/I( do)? work\./
+Él no trabaja.
+/He (does not|doesn't) work\./
+¿Trabaja él?
+/Does he work\?/
+¿Dónde trabaja él?
+/Where does he work\?/
+¿Por qué trabaja él?
+/Why does he work\?/
+El presidente lee libros.
+/The president (does read|reads) books\./
+El presidente duerme en su cama.
+/The president (does sleep|sleeps) in his bed\./
+¿Dónde duerme el presidente?
+/Where does the president sleep\?/
+Mi madre me ama.
+/My mother (does love|loves) me\./
+¿Me amas tú?
+/Do you love me\?/
+¿Por qué me amas tú?
+/Why do you love me\?/
+Mis amigos juegan a fútbol.
+/My friends( do)? play football\./
+Mi amigo juega a fútbol.
+/My friend (does play|plays) football\./
+Tu hermano juega con mi hermano.
+/Your brother (does play|plays) with (mine|my brother)\./
+Yo bailo.
+/I( do)? dance\./
+Ella baila.
+/She (does dance|dances)\./
+¿Baila ella?
+/Does she dance\?/
+Ellos no bailan.
+/They (do not|don't dance)\./

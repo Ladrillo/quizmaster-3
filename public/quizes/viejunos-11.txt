@@ -1,0 +1,30 @@
+Tuve que estudiar hasta que hube comprendido todo. -> I _____ everything. (had, had)
+/I had to study until (I'd|I had) understood everything\./
+No pudimos ir a casa hasta encontrar mis llaves. -> We _____ keys. (able, had)
+/We (were not able to|weren't able to) go home until (we'd|I'd|we had|I had) found my keys\./
+Él se puso de pie después de terminar su desayuno. -> He _____ book. (up, had)
+/He stood up after he had finished( with)? his breakfast\./
+Empecemos, a menos que tengas alguna pregunta. -> Let's _____ questions.
+/Let's (start|begin), unless (you've|you've got|you have|you have got)( any)?( further)? questions\./
+Soy consciente de que hay mejores opciones. -> I _____ options.
+/(I realize|I realise|I'm aware of the fact|I am aware of the fact)( that)? (there're|there are) better options\./
+Él cayó en la cuenta de que había cometido un error demasiado tarde. -> He _____ late.
+/He (realized|realised)( that)? (he'd|he had) made (an error|a mistake) too late\./
+Él trae una mala noticia. -> He _____ news.
+/He brings bad news\./
+Él trae malas noticias. -> He _____ news.
+/He brings bad news\./
+Éstas son viejas noticias.
+/This is old news\./
+Estoy de acuerdo.
+/I agree\./
+No estoy de acuerdo.
+/I (do not agree|don't agree|disagree)\./
+Ellos rompieron nuestro acuerdo.
+/They broke our agreement\./
+Aquella podría ser una buena inversión, creo yo. -> That ____ believe. (USAR UN VERBO MODAL)
+/That (could|might|may) be a good investment, I believe\./
+Esa empresa de seguros se anuncia en la tele. -> That ____ TV.
+/That insurance company (is advertised|advertises|promotes itself) on TV\./
+Ha pasado mucho tiempo desde que dejé de fumar. -> It _____ smoking. (been, gave)
+/(It's|It has) been a long time since I gave up smoking\./

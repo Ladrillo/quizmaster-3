@@ -1,0 +1,26 @@
+Hombre o mujer de negocios.
+/(Businessman|Businesswoman|Businessperson|Business person)\./
+Emprendedor.
+/Entrepreneur\./
+Fundador.
+/Founder\./
+Cualidades de liderazgo.
+/Leadership skills\./
+Magnate.
+/(Magnate|Mogul|Tycoon)\./
+Magnate.
+/(Magnate|Mogul|Tycoon)\./
+Magnate.
+/(Magnate|Mogul|Tycoon)\./
+Acoso.
+/(Bullying|Harassment)\./
+¿Qué significa RSI?
+/Repetitive strain injury\./
+Trabajadores de oficina.
+/White-collar workers\./
+Trabajadores de taller.
+/(Manual|Blue-collar) workers\./
+Graduado.
+/Graduate\./
+Desplazamiento. (Hacia y desde el trabajo.)
+/Commute\./

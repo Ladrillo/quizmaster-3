@@ -1,0 +1,18 @@
+Yo soy amado por mis padres.
+/ (I'm|I am) loved by my parents\./
+Las camas son hechas a las nueve.
+/The beds are made at nine( o'clock)?\./
+El edificio fue construido el año pasado.
+/The building was built last year\./
+Los tanques fueron destruidos por los alemanes.
+/The tanks were destroyed by the Germans\./
+El alumno estaba siendo observado. (Observar -> Watch)
+/The (student|pupil) was being watched\./
+Ella estaba siendo seguida por la policía. (Seguir -> Follow)
+/She was being followed by the police\./
+Mi amigo ha sido elegido.
+/My friend has been (elected|chosen)\./
+Los libros han sido robados.
+/The books have been stolen\./
+El nuevo modelo no será hecho en Pamplona.
+/The new model (will not|won't) be made in Pamplona\./

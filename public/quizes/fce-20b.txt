@@ -1,0 +1,32 @@
+Ella sugirió que ahorrásemos dinero.
+/She suggested(( that)? we( should)? save money| saving money)\./
+Él nos dijo que esperásemos fuera.
+/He (told|ordered) us to wait outside\./
+Ella nos preguntó de qué nos estábamos quejando.
+/She (asked us|wanted to know) what we were complaining about\./
+Mi hija pregunta que cuánto frío hará en Madrid.
+/My daughter (asks|wants to know) how cold ((it will|it'll)|it is going to|it's going to) be in Madrid\./
+Ella preguntó si me quedaba dinero.
+/She (asked|asked me|wanted to know) (if|whether) I had( any)? money left\./
+Él cree que yo podría estar equivocado.
+/He (thinks|believes)( that)? I (could|might) be (wrong|mistaking)\./
+Él mejorará. ¡Eso espero!
+/(He'll|He will) (improve|get better)\. I hope( so)?!/
+Él llegó más temprano de lo esperado.
+/He (got here|showed up|turned up|arrived) (sooner|earlier) than( I| we| anybody)? expected\./
+Se espera que él hablará esta tarde. He ____ afternoon.
+/(He is|He's) expected to (talk|speak) this afternoon\./
+Se espera que él hablará esta tarde. It ____ afternoon.
+/(It's|It is) expected( that)? (he'll|he will) (talk|speak) this afternoon\./
+Me esperaba algo distinto.
+/I (was expecting|expected|was hoping for|hoped for) something different\./
+Se sabe que ese modelo es poco fiable. That ____ unreliable.
+/That model is known to be unreliable\./
+Se sabe que él ha estado allá. He ____ there.
+/(He's|He is) known to have been there\./
+Se le conoce como Hercules.
+/(He's|He is) known as Hercules\./
+No tenías por qué haber hecho eso. (needn't)
+/You (need not|needn't) have done that\./
+Es importante que él tome su medicación. (Usar el subjuntivo)
+/(It's|It is) important that he take his medication\./

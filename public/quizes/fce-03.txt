@@ -1,0 +1,34 @@
+Me arrepiento de haber mentido tanto.
+/I regret (lying|having lied) so much\./
+Me arrepiento de no haber estudiado más duro.
+/I regret not (studying|having studied) harder\./
+No hay ningún lápiz en el cajón.
+/There (are no|are not any|aren't any) pencils in the drawer\./
+No queda ningún lápiz en la mesa.
+/There (are no|are not any|aren't any) pencils left on the table\./
+No hay problema.
+/ (There is no problem|There's no problem|There are no problems|There aren't any problems|No problem)\./
+Esto es entre tú y yo.
+/This is between you and me\./
+Éste es un problema entre muchos.
+/This is (a|one) problem among many( problems)?\./
+No me hagas reir.
+/ (Do not|Don't) make me laugh\./
+Mi esposa me hizo dejar de fumar.
+/My wife made me (quit|give up|stop) smoking\./
+Me hicieron esperar, lo cual fue irritante.
+/They made me wait, which was annoying\./
+A él se le ocurrió una brillante idea. (¡Frasal!)
+/He came up with a brilliant idea\./
+Consulta estas palabras en el diccionario antes de preguntar a Gabriel. (¡Frasal!)
+/ (Look up these words|Look these words up) in the dictionary before asking Gabriel\./
+Él apareció dos horas tarde. (¡Frasal!)
+/He (turned up|showed up) two hours late\./
+Ella dijo que no haría copia de seguridad de mis archivos. (¡Frasal!)
+/She said( that)? she (wouldn't|would not) (back up my files|back my files up)\./
+Si hubieras sido más cuidadoso nada habría pasado.
+/If (you had|you'd) been more careful nothing would have (happened|ocurred)\./
+Él no llegó puntual. Pero él llegó a tiempo para la cena.
+/He (didn't|did not) arrive on time\. But he (did arrive|arrived) in time for (dinner|supper)\./
+El mal tiempo nos impidió salir afuera.
+/ (The bad weather|Bad weather) prevented us from (going|getting) (out|outside)\./

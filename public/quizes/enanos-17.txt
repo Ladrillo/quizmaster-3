@@ -1,0 +1,30 @@
+Este edificio fue construido hace sesenta años.
+/This building was built sixty years ago\./
+He sido mordido por perros dos veces.
+/ (I have|I've) been bitten by dogs (two times|twice)\./
+Los inmigrantes fueron arrojados al mar.
+/The migrants were thrown to( the)? sea\./
+Él fue traido a España cuando él era un niño.
+/He was brought to Spain when he was a (boy|kid|child)\./
+Los teléfonos inteligentes fueron vendidos más rapido que nunca. The ____ ever. 
+/The smartphones were sold faster than ever\./
+El ladrón fue atrapado dos días más tarde.
+/The (thief|robber) was caught two days later\./
+El anciano fue encontrado muerto.
+/The old man was found dead\./
+Las ideas de Einstein no han sido olvidadas.
+/Einstein's ideas (have not|haven't) been forgotten\./
+La caja fue enviada a la dirección equivocada.
+/The (box|package|parcel) was sent to the wrong address\./
+Ese libro había sido escrito ya.
+/That book (had already been written|had been written already)\./
+Sus ideas no son comprendidas.
+/ (His|Her) ideas (aren't|are not) understood\./
+El cuadro fue robado durante la noche.
+/The painting was stolen during the night\./
+La canción será cantada esta noche.
+/The song will be sung tonight\./
+Estos coches no pueden ser vendidos.
+/These cars (can not|cannot|can't) be sold\./
+Aquel vestido no ha sido llevado por nadie aún.
+/That dress (has not|has never|hasn't) been worn by (anybody|anyone) yet\./

@@ -11,7 +11,7 @@ enable :sessions
 before '/quizmaster' do
   params[:user_attempt] ||= ""
 
-  pairs = IO.readlines('public/' + params[:quiz]).each_slice(2).to_a
+  pairs = IO.readlines('public/quizes' + params[:quiz]).each_slice(2).to_a
   @pairs = pairs.each { |pair| pair.map! { |string| string.chomp } }
 
 

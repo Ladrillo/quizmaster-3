@@ -1,0 +1,28 @@
+Esto no es lo bastante interesante como para que nos quedemos aquí.
+/ (This is not|This isn't) interesting enough( for us)? to (stay|be) here\./
+La maleta es demasiado pesada para que nosotros podamos llevarla.
+/The suitcase is too heavy( for us)? to carry( it)?\./
+Un átomo no es lo bastante grande como para que nosotros lo veamos.
+/An (atom's not|atom is not|atom isn't) (big|large) enough for us to see( it)?\./
+El aula está más sucia de lo que solía estar.
+/The classroom is (messier|dirtier) than it used to be\./
+Nosotros solíamos ir al parque cada domingo. (No usar 'used to'.)
+/We would go to the park every Sunday\./
+Arquitectura está entre los grados más difíciles.
+/Architecture is among the (more|most) (demanding|difficult|complicated) degrees\./
+Puedes elegir entre rojo, azul o rosa.
+/You (can|may) choose between red, blue (and|or) pink\./
+Siempre y cuando no haya problemas, quedaremos en el centro comercial.
+/As long as there (are not|aren't)( any)? problems, (we'll|we will) (meet|get together) at the (shopping centre|shopping center|mall)\./
+A no ser que tengas alguna pregunta, cambiaremos de tema.
+/Unless you have( any)? questions, (we'll|we will) change the (topic|subject)\./
+Ojalá nunca nos hubiéramos conocido.
+/I wish( that)? (we had never|we'd never|we'd not|we had not|we hadn't) met( each other)?\./
+La entrevista fue tan exitosa...
+/The interview (was so successful|had so much success)\.\.\./
+La entrevista fue tal éxito...
+/The interview was such a success\.\.\./
+Como resultado de tu pereza, suspendiste.
+/As a result of (you being lazy|your laziness), you failed\./
+Ella fue encontrada culpable.
+/She was (found guilty|convicted)\./

@@ -1,0 +1,24 @@
+Cada soldado. Todo soldado. Todos los soldados.
+/Each soldier\. Every soldier\. All( the)? soldiers\./
+Ambos soldados. Ningún soldado. Ningún soldado (sólo hay dos).
+/Both soldiers\. No soldier(s)?\. Neither soldier\./
+Voy a la iglesia todos los domingos.
+/I go to church every Sunday\./
+Me encantan los perros. (Los perros en general!)
+/I love dogs\./
+Este pueblo es feo. Pero me encantan los perros. (¡Los perros del pueblo!)
+/This (village|town) is ugly\. But I love the dogs\./
+¿Qué color te gusta? (A elegir de entre unos pocos)
+/Which color do you like\?/
+¿Qué color te gusta? (A elegir de entre todos los colores que existen)
+/What color do you like\?/
+Este boli es mío. ¿Cuál? Este.
+/This pen is mine\. Which one\? This one\./
+Aquellos bolis son míos. ¿Cuáles? ¿Estos? No, aquellos.
+/Those pens are mine\. Which ones\? These\? No, those\./
+Tengo algunas preguntas. Unas pocas.
+/ (I've got|I have got|I have|I've)( some)? questions\. A few\./
+Queda algo de dinero. Un poco.
+/ (There is|There's)( some)? money left\. A little\./
+¿Ha visto alguien a Miriam? No, nadie.
+/Has (anyone|anybody) seen Miriam\? No, (nobody|no-one|no one)( has)?\./

@@ -1,0 +1,32 @@
+Yo estoy trabajando.
+/(I am|I'm) working\./
+Yo estaba trabajando.
+/I was working\./
+Él vive en Pamplona.
+/He lives in Pamplona\./
+Él vivió en Pamplona.
+/He lived in Pamplona\./
+Ella no está triste.
+/(She isn't|She's not|She is not) sad\./
+Ella no estaba triste.
+/(She was not|She wasn't) sad\./
+Él no me ama.
+/He (doesn't|does not) love me\./
+Él no me amaba.
+/He (didn't|did not) love me\./
+Ella siempre está fumando.
+/(She's|She is) always smoking\./
+Él siempre estaba bebiendo.
+/He was always drinking\./
+Peter a veces bebe café.
+/Peter sometimes (does drink|does have|drinks|has) coffee\./
+¿Amas a Laura?
+/Do you love Laura\?/
+¿Amabas a Laura?
+/Did you love Laura\?/
+¿Eres feliz?
+/Are you happy\?/
+¿Eras feliz?
+/Were you happy\?/
+¿Estabas trabajando?
+/Were you working\?/

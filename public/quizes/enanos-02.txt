@@ -1,0 +1,22 @@
+¿Qué has construído? He construido un castillo de arena.
+/What have you built\? (I've|I have) built a sandcastle\./
+¿Dónde has estado? He estado esperándote a ti.
+/Where have you been\? (I've|I have) been waiting for you\./
+¿Por qué has suspendido? He suspendido porque no he estudiado.
+/Why have you failed\? (I've|I have) failed because (I've not|I haven't|I have not) studied\./
+¿Viste aquello? Yo no vi nada.
+/Did you see that\? I (didn't see anything|did not see anything|saw nothing)\./
+Ella probó la ensalada pero (a ella) no le gustó.
+/She tried the salad but she (didn't|did not) like it\./
+¿Fuma ella? Ella solo fuma los sábados.
+/Does she smoke\? She (only smokes|smokes only) on Saturdays\./
+¿Qué está ella haciendo? Ella está haciendo su cama.
+/ (What's|What is) she doing\? (She's|She is) making her bed\./
+¿Tienes mi nueva dirección? No lo creo.
+/ (Do you have|Have you got|Have you) my new address\? I (don't|do not) think so\./
+Fumo tanto. Fumo demasiado.
+/ I smoke so much. I smoke too much\./
+Ella a menudo visita a sus primos.
+/She (often visits her cousins|visits her cousins often)\./
+Lleva esto contigo. Lo necesitarás.
+/Take this with you. (You will|You'll|You're going to|You are going to) need it\./

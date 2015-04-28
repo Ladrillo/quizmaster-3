@@ -1,0 +1,28 @@
+Si estudias aprobarás.
+/If you study (you'll|you will) pass\./
+A menos que estudies no aprobarás.
+/Unless you study you (will not|won't) pass\./
+Si Mark estudiase él aprobaría.
+/If Mark studied (he'd|he would) pass\./
+Si Mark estudiara él no suspendería.
+/If Mark studied he (wouldn't|would not) fail\./
+Si yo supiera Alemán iría a Alemania.
+/If I (knew|spoke) German (I'd|I would) go to Germany\./
+Si yo fuera tú estudiaría más.
+/If I were you (I'd|I would) study (harder|more)\./
+Si llueve no iremos a las montañas.
+/If it rains we (will not|won't) go to the mountains\./
+Si yo fuera rico no sería más feliz.
+/If I were rich I (wouldn't|would not) be happier\./
+Si Osasuna ganase un partido sería una sorpresa.
+/If Osasuna won a (game|match) it would be a surprise\./
+Si apruebo inglés mi madre estará más contenta.
+/If I pass English my mother will be happier\./
+Si tienes un problema deberías hablar con tus padres.
+/If you have a problem you should (talk|speak) (to|with) your parents\./
+Si nuestro coche fuera más viejo mi padre compraría uno nuevo.
+/If our car were older my father would buy a new (one|car)\./
+Ojalá yo supiera.
+/I wish I knew\./
+Si no comes comida saludable no crecerás.
+/If you (do not|don't) eat healthy food you (will not|won't) grow( up)?\./

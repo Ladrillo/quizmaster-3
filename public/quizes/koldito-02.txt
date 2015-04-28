@@ -1,0 +1,16 @@
+Yo no sé tu nombre.
+/I (do not|don't) know your name\./
+Yo no sabía el nombre de ella.
+/I (didn't|did not) know her name\./
+Él no trabaja aquí.
+/He (does not|doesn't) work here\./
+Ellos no trabajaban allá.
+/They (didn't|did not) work there\./
+Yo no estoy muy contento.
+/(I'm|I am) not very happy\./
+Ella no estaba muy triste.
+/She (was not|wasn't) very sad\./
+El amigo de mi padre está durmiendo.
+/My father's friend is (asleep|sleeping)\./
+El amigo de mis padres estaba durmiendo.
+/My parents' friend was (asleep|sleeping)\./

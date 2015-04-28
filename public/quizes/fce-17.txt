@@ -1,0 +1,24 @@
+Ella está estudiando periodismo, a pesar del hecho de que tiene sesenta años.
+/ (She's|She is) studying journalism, (in spite of|despite) the fact( that)? (she's|she is) sixty( years old)?\./
+Nos las arreglamos para ganar, aunque fue difícil.
+/ We managed to win, (even though|although|though) it was (hard|difficult)\./
+Ha habido varios problemas últimamente.
+/ (There've|There have) been several problems lately\./
+Él no está aquí. Debe haber habido un retraso.
+/ (He's not|He is not|He isn't) here\. There must have been a delay\./
+Si no hubiera habido gente observando, el collar habría sido robado.
+/If there (hadn't|had not) been( any)? people watching, the necklace would have been stolen\./
+Se cree que el avión está en algún lugar en la selva. (Comenzar por 'The plane...')
+/ The plane is (believed|thought) to be somewhere in the jungle\./
+Se sabe que fumar mata lentamente. (NO comenzar por 'It...')
+/Smoking is known to kill slowly\./
+Me llevó menos de una hora calcular la altura de la pirámide. (Comenzar por 'It...')
+/It took me (less than|under|just under) (an|one) hour to (figure out|calculate|reckon|compute|work out) the (height of the pyramid|pyramid's height)\./
+Aprender alemán lleva mucho tiempo. (NO comenzar por 'It...')
+/Learning German takes (a long|a lot of|lots of|much) time\./
+Deberías haber visto el tamaño de aquellos peces!
+/You (should|ought to) have seen the size of those fish!/
+¡Apriétate el cinturón!
+/Tighten your belt!/
+¡Afloja esos tornillos!
+/Loosen those screws!

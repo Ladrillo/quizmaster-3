@@ -1,0 +1,34 @@
+Jubilación.
+/Retirement\./
+Él fue ascendido.
+/He was promoted\./
+Él fue degradado (a un puesto inferior).
+/He was demoted\./
+Ascenso.
+/Promotion\./
+Ella presentó su dimisión.
+/She (resigned|handed in her notice|quit)\./
+Eficiencia.
+/Efficiency\./
+Beneficios.
+/(Profits|Profit)\./
+Subcontratación.
+/Outsourcing\./
+Él fue despedido.
+/He was (fired|dismissed|sacked|terminated|laid off|made redundant|offered early retirement)\./
+Sustancias peligrosas.
+/Hazardous substances\./
+Amenaza de incendio.
+/Fire hazard\./
+Primeros auxilios.
+/First aid\./
+Acoso.
+/(Bullying|Harassment)\./
+Discriminación de género.
+/Sex discrimination\./
+Techo de cristal. (Barrera que impide a las mujeres promocionarse a partir de cierto nivel.)
+/Glass ceiling\./
+Discriminación racial.
+/(Racial discrimination|Racism)\./
+Discriminación positiva.
+/(Affirmative action|Equal opportunities)\./

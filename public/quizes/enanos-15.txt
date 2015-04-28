@@ -1,0 +1,14 @@
+Si yo hubiera ganado el partido...
+/If (I had|I'd) won the (game|match)\.\.\./
+Si Mark hubiera estudiado habría aprobado.
+/If Mark had studied (he'd|he would) have passed\./
+Si hubiera llovido no hubiéramos ido a las montañas.
+/If it had rained we (would not|wouldn't) have gone to the mountains\./
+Si Osasuna hubiera ganado yo habría sufrido un infarto.
+/If Osasuna had won I would have suffered a heart attack\./
+Si no hubieras mentido...
+/If you (hadn't|had not) lied\.\.\./
+Ojalá yo hubiera sabido.
+/I wish( that)? (I'd|I had) known\./
+Si ellos hubieran ganado yo no estaría contento.
+/If they had won I (wouldn't|would not) be happy\./

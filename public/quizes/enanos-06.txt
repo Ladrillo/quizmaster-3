@@ -1,0 +1,32 @@
+Yo normalmente bebo café.
+/I (usually|normally|ordinarily|as a rule) (drink|have) coffee\./
+Mi hermana está bebiendo agua.
+/My (sister is|sister's) (drinking|having)( some)? water\./
+Mis padres tomaron algo de pizza.
+/My parents (had|ate) some pizza\./
+Cuanto tú llegaste yo estaba haciendo mi cama.
+/When you (arrived|got here|came here|came) I was making my bed\./
+He hecho mi cama pero no he hecho mi tarea.
+/(I've|I have) made my bed but I (haven't|have not) done my homework\./
+Justo he encendido la tele (= Acabo de encender la tele.)
+/(I've|I have) just (turned|switched) (on the TV|on the television|the TV on|the television on)\./
+La clase había terminado ya.
+/The class had (already finished|finished already)\./
+¿Puedes contestar a la pregunta?
+/Can you (answer the question)\?/
+Ella no pudo encontrar a su amigo.
+/She (could not|couldn't|wasn't able to|was not able to|was unable to) find her friend\./
+Él cree que Susan no le ayudará.
+/He (thinks|believes)( that)? Susan (will not|won't) help him\./
+Esto es demasiado caro.
+/This is too expensive\./
+No tengo suficiente dinero.
+/I (don't have|do not have|haven't got|have not got|haven't|have not) enough money\./
+¿Cuánto dinero tienes?
+/How much money (do you have|have you got|have you)\?/
+Tengo poco dinero y pocos amigos.
+/(I've got|I have got|I have|I've) little money and few friends\./
+Mi hermano tiene menos dinero que mi hermana.
+/My (brother's got|brother has got|brother has) less money than my sister\./
+Hay menos coches ahora.
+/There are fewer cars now\./

@@ -1,0 +1,34 @@
+Nadie habló durante cinco minutos.
+/Nobody (talked|spoke) for five minutes\./
+Nadie habló durante la obra de teatro.
+/Nobody (talked|spoke) during the play\./
+Nadie dijo nada mientras estábamos allá.
+/Nobody said anything while we were there\./
+Estuvimos esperando durante un largo tiempo.
+/We were waiting for a long time\./
+Deberías haber cerrado con llave la puerta. NOTA: 'cerrar con llave' es un único verbo.
+/You should have locked the door\./
+No deberías haber mencionado aquello.
+/You (should not|shouldn't) have mentioned that\./
+Esto será probablemente un problema. Usar likely + verbo
+/This will likely be a problem\./
+Mi madre es probable que no venga. Usar not likely/unlikely + to + verbo
+/My mother (is unlikely|isn't likely|is not likely) to come\./
+Aparte de los problemas habituales, nada interesante pasó.
+/Apart from the usual problems, nothing (of interest|interesting) (occurred|happened)\./
+Él está acostumbrado a estar solo.
+/ (He's|He is) used to being (alone|on his own|by himself)\./
+Ella nunca se acostumbró a ese estilo de vida.
+/She never got used to that (way of life|lifestyle)\./
+Los médicos están acostumbrados a ver cosas extrañas.
+/Doctors are used to seeing (weird|strange|funny) things\./
+¿Te apetece salir esta noche?
+/Do you (feel like|fancy|feel up to) going out tonight\?/
+A ella no le apetece bailar.
+/She (does not|doesn't) feel like dancing\./
+No me apetece bailar. Aparte, ya me estaba marchando.
+/I (do not|don't) feel like dancing\. Besides, I was (leaving already|already leaving|just leaving)\./
+No pudimos salvarle.
+/We (could not|couldn't|were unable to| weren't able to) save (him|her)\./
+Arranca el coche tan pronto me veas con el dinero.
+/Start the car as soon as you see me with the money\./

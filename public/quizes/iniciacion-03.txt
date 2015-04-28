@@ -1,0 +1,64 @@
+Yo no bebo.
+/I (do not|don't) drink\./
+Ella no está bebiendo.
+/ (She's not|She is not|She isn't) drinking\./
+¿Estás tú bebiendo?
+/Are you drinking\?/
+¿Qué estás tú bebiendo?
+/What are you drinking\?/
+Él no bebe.
+/He (does not|doesn't) drink\./
+Él no ha bebido.
+/He (has not|hasn't) drunk\./
+¿Han bebido ellos?
+/Have they drunk\?/
+Yo estaba bebiendo ayer a las cinco.
+/I was drinking yesterday at (five|five o'clock|5 o'clock|5)\./
+Yo no beberé este agua.
+/ (I'll not|I will not|I won't) drink this water\./
+¿Qué estás haciendo?
+/What are you doing\?/
+Ellos estarán trabajando.
+/ (They'll|They will) be working\./
+¿Has estudiado?
+/Have you studied\?/
+¿Hablas inglés?
+/Do you speak English\?/
+¿Habla tu hermana inglés?
+/Does your sister speak English\?/
+¿Dónde vive tu amigo?
+/Where does your friend live\?/
+Mi amigo vive en Londres, él está estudiando.
+/My friend lives in London, he is studying\./
+Deberías hablar con tu hermano.
+/You should (talk|speak) (with|to) your brother\./
+¿Puedes ayudar a tu hermana?
+/Can you help your sister\?/
+¿Podrías ayudarme?
+/Could you help me\?/
+Ellos deben estudiar.
+/They must study\./
+¿Qué traes?
+/What do you bring\?/
+¿Estás escuchando?
+/Are you listening\?/
+No iré mañana.
+/ (I'll not|I won't|I will not) go tomorrow\./
+Yo no fui ayer.
+/I (did not|didn't) go yesterday\./
+¿Sabe ella mi nombre?
+/Does she know my name\?/
+Olvidé mi tarea.
+/I forgot my homework\./
+¿Estabas trabajando?
+/Were you working\?/
+¿Qué dijiste?
+/What did you say\?/
+Aquellos son mis padres.
+/Those are my parents\./
+¿Cuál es tu problema?
+/What is your problem\?/
+¿Dónde viven ellos?
+/Where do they live\?/
+Ella vive en Londres.
+/She (lives|does live) in London\./

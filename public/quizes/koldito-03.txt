@@ -1,0 +1,28 @@
+Esta mañana me desperté temprano. (Despertar = wake up, woke up, waken up)
+/This morning I woke up early\./
+Yo me levanté rápido. (Levantarse = get up, got up, got up)
+/I got up (fast|quickly)\./
+Yo me duché. (Ducharse = take a shower, took a shower, taken a shower)
+/I took a shower\./
+Yo tomé leche para desayunar. (Tomar = have, had, had)
+/I had milk for breakfast\./
+Entonces, yo me vestí. (Vestirse = get dressed, got dressed, got dressed)
+/Then, I got dressed\./
+Después de eso, yo fui a Taberna. (Ir = go, went, gone)
+/After that, I went to Taberna\./
+En Taberna, yo tomé otro café.
+/At Taberna, I (had|drank) another( cup of)? coffee\./
+En Taberna, yo conversé con la chica. (Conversar = talk, talked, talked)
+/At Taberna, I talked with the girl\./
+Entonces, yo conduje a Burlada. (Conducir = drive, drove, driven)
+/Then, I drove to Burlada\./
+Trabajé durante ocho horas. (Trabajar es regular; durante para duraciones = for)
+/I worked for eight hours\./
+Abandoné la oficina muy tarde. (Abandonar/dejar = leave, left, left)
+/I left the office very late\./
+Llegué a casa a las nueve. (Llegar es Arrive, regular. You arrive home but you arrive AT the office)
+/I arrived( at)? home at nine( o'clock)\./
+Me fui a la cama muy temprano. (Ir a la cama = go to bed, went to bed, gone to bed)
+/I went to bed very early\./
+El día fue bueno.
+/ (The day was good|It was a good day)\./

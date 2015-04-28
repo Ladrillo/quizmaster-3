@@ -1,0 +1,24 @@
+No pude encontrar a mi perro.
+/I (could not|couldn't|was not able to|wasn't able to) find my dog\./
+No podré ir.
+/I (won't|will not) be able to go\./
+No deberías estar aquí.
+/You (shouldn't|should not|ought not to) be here\./
+Osasuna tal vez gane. (No recurrir a 'Maybe Osasuna will win' ni 'Perhaps Osasuna will win')
+/Osasuna (could|may|might) win\./
+Osasuna debe ganar.
+/Osasuna (has to|must) win\./
+¿Puedo ir a la cocina?
+/ (May|Can|Could) I go to the kitchen\?/
+No tienes que venir ahora. Puedo esperar.
+/You (don't|do not) (have to|need to) come now\. I can wait\./
+Podrías estudiar un poco más, creo.
+/You could study a (bit|little) more, I (believe|think)\./
+Debes estar loco. No puedes hacer eso.
+/You must be (mad|crazy|out of your mind)\. You (can not|cannot|can't|must not|mustn't) do that\./
+Esto tal vez sea un problema. (No recurrir a 'perhaps' ni 'maybe')
+/This (could|might|may) be a problem\./
+¿Podrás ayudarme?
+/Will you be able to help me\?/
+¿No deberíamos decir algo?
+/ (Should not|Shouldn't) we say (anything|something)\?/
