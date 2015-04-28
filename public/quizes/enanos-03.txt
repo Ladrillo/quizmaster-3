@@ -1,23 +1,23 @@
 Nosotros todavía somos amigos.
-/ (We're still|We are still|We still are) friends\./
+/(We're still|We are still|We still are) friends\./
 ¿Tienes muchos amigos?
-/ (Have you got|Do you have|Have you) (many|a lot of|lots of) friends\?/
+/(Have you got|Do you have|Have you) (many|a lot of|lots of) friends\?/
 Te quiero tanto...
 /I love you so much\.\.\./
 Hay un pelo en mi sopa.
-/ (There's|There is) a hair in my soup\./
+/(There's|There is) a hair in my soup\./
 Tom no hizo su cama.
 /Tom (didn't|did not) make his bed\./
 ¿Has jugado alguna vez a futbol?
 /Have you ever played (soccer|football)\?/
 He jugado en Osasuna cinco años.
-/ (I've|I have) played in Osasuna for five years\./
+/(I've|I have) played in Osasuna for five years\./
 Ella va a tener un bebé.
-/ (She's|She is) going to have a baby\./
+/(She's|She is) going to have a baby\./
 Necesito ayuda. Yo te ayudaré.
 /I need( some)? help\. (I'll|I will) help you\./
 Estoy cansado. Creo que me iré a la cama\./
-/ (I'm|I am) tired\. I think( that)? (I'll|I will) go to bed\./
+/(I'm|I am) tired\. I think( that)? (I'll|I will) go to bed\./
 ¡Deberías descansar!
 /You (should|ought to) rest!/
 Mis padres a menudo hablan con mis profesores.

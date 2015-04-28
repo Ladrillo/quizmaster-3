@@ -1,11 +1,11 @@
 Bebimos cerveza durante varias horas.
 /We drank beer for several hours\./
 Estás a salvo mientras estés conmigo.
-/ (You are|You're) safe while (you're|you are) with me\./
+/(You are|You're) safe while (you're|you are) with me\./
 Ha nevado durante la noche.
-/ (It's|It has) snowed (in|during) the night\./
+/(It's|It has) snowed (in|during) the night\./
 John ha estado esperándote durante un largo tiempo.
-/ (John's|John has) been waiting for you for a long time\./
+/(John's|John has) been waiting for you for a long time\./
 Durante la película la gente estaba comiendo y bebiendo.
 /During the (movie|film)( the)? people were eating and drinking\./
 Mi novia me llamó por teléfono mientras yo estaba haciendo mi tarea (escolar).

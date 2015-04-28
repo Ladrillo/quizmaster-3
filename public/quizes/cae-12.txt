@@ -1,19 +1,19 @@
 Nos estamos quedando sin tiempo. 
-/ (We're|We are) running out of time\./ 
+/(We're|We are) running out of time\./ 
 Esa es la razón por la que tenemos que darnos prisa.
-/ (That's|That is) (why|the reason why|the reason) we (must|have to|need to) hurry( up)?\./
+/(That's|That is) (why|the reason why|the reason) we (must|have to|need to) hurry( up)?\./
 El tiempo se está acabando.
-/ (The time is|Time is|The times's|Time's) running out\./
+/(The time is|Time is|The times's|Time's) running out\./
 Eso es de lo que nos tenemos que preocupar.
-/ (That's|That is) what we (must|need to|have to) worry about\./
+/(That's|That is) what we (must|need to|have to) worry about\./
 Harás que te maten!
-/ (You'll|You will) (end up dead|end up getting killed|end up getting yourself killed|get killed|get yourself killed)!/
+/(You'll|You will) (end up dead|end up getting killed|end up getting yourself killed|get killed|get yourself killed)!/
 Tengo la intención de poner esto en movimiento. (Motion!)
 /I (intend to put|have the intention of putting|have every intention of putting|intend to set|have the intention of setting|have every intention of setting) this in motion\./
 Adri llega puntual para variar.
-/ (Adri arrives|Adri is|Adri's) on time for a change\./
+/(Adri arrives|Adri is|Adri's) on time for a change\./
 A pesar de haber perdido un montón de peso, ella aún es muy fuerte.
-/ (Despite|In spite of) (losing|having lost) (a lot of|lots of) weight, (she's still|she is still|she still is) very strong\./
+/(Despite|In spite of) (losing|having lost) (a lot of|lots of) weight, (she's still|she is still|she still is) very strong\./
 Esto es algo fácil de acostumbrarse.
 /This is something easy to get used to\./
 No puedo aguantarle. Él siempre se está metiendo conmigo.
@@ -23,4 +23,4 @@ Un rato más tarde, él se arrepintió de haberse ofrecido voluntario para la mi
 Ella no aceptaba un no por respuesta. 
 /She (did not|didn't|would not|wouldn't) take no for an answer\./
 Nos reunimos con el Padrino mañana, sin importar lo peligroso que pueda ser. (Futuro próximo previsto con seguridad)
-/ (We're meeting|We are meeting|We meet)( with)? the Godfather tomorrow, no matter how dangerous (it|this) (may|might) be\./
+/(We're meeting|We are meeting|We meet)( with)? the Godfather tomorrow, no matter how dangerous (it|this) (may|might) be\./

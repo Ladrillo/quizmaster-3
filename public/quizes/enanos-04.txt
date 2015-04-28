@@ -9,15 +9,15 @@ Estas frases no son tan sencillas.
 Yo solía mirar a los pájaros.
 /I used to (look at|watch) the birds\./
 Voy a hacer la compra esta tarde.
-/ (I am|I'm) (doing|going to do) the shopping this afternoon\./
+/(I am|I'm) (doing|going to do) the shopping this afternoon\./
 Estoy acostumbrado a estudiar.
-/ (I am|I'm) used to studying\./
+/(I am|I'm) used to studying\./
 Hay muchos estudiantes.
 /There are (a lot of|lots of|many) (pupils|students)\./
 Ella tiene poco dinero y pocos amigos.
-/ (She's got|She has got|She has) little money and few friends\./
+/(She's got|She has got|She has) little money and few friends\./
 Todavía está lloviendo.
-/ (It's|It is) still raining\./
+/(It's|It is) still raining\./
 Aún no ha parado.
 /It (still hasn't stopped|still has not stopped|hasn't stopped yet|has not stopped yet)\./
 Él ya sabe la respuesta.
@@ -31,4 +31,4 @@ No he comprado suficientes galletas.
 Yo no sabía la respuesta así que mentí.
 /I (did not|didn't) know the answer so I lied\./
 Estoy tan cansado...
-/ (I'm|I am) so tired\.\.\./
+/(I'm|I am) so tired\.\.\./

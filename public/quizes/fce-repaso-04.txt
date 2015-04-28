@@ -1,11 +1,11 @@
 Me quedé en casa para evitar pillar un resfriado. ORDER
 /I (stayed|remained)( at)? home in order to avoid (getting|catching) a cold\./
 Se supone que él está al mando. CHARGE
-/ (He's|He is) supposed to be in charge\./
+/(He's|He is) supposed to be in charge\./
 Prefiero esperar. TO
 /I prefer to wait\./
 Prefiero esperar. RATHER
-/ (I'd|I would) rather wait\./
+/(I'd|I would) rather wait\./
 Todo depende del espesor del muro. THICK
 /(It all|Everything) depends on how thick the wall is\./
 Todo depende del espesor del muro. THICKNESS
@@ -19,15 +19,15 @@ A pesar de los daños, el edificio no fue evacuado. DAMAGE
 La tormenta les impidió alcanzar el refugio. PREVENTED
 /The storm prevented them from reaching( the)? shelter\./
 Samsung está presumiendo del nuevo modelo Galaxy. OFF
-/ (Samsung is|Samsung are|Samsung's) (showing off the new Galaxy model|showing the new Galaxy model off)\./
+/(Samsung is|Samsung are|Samsung's) (showing off the new Galaxy model|showing the new Galaxy model off)\./
 La búsqueda fue suspendida por el mal tiempo. OFF
 /The search was called off (due to|because of)( the)? bad weather\./
 Un incendio tan grande será imposible de apagar. SO, PUT
 /A fire (that|so) (large|great|big) will be impossible to put out\./
 No merece la pena esperar más. POINT
-/ (There's no|There is no|There isn't any) point in waiting( any)? longer\./
+/(There's no|There is no|There isn't any) point in waiting( any)? longer\./
 Eso son viejas noticias. NEWS
-/ (That is|That's) old news\./
+/(That is|That's) old news\./
 Me doy cuenta de que estás ocupado. REALIZE
 /I realize( that)? (you're|you are) busy\./
 Él pulsó el botón equivocado por error. WRONG
@@ -37,7 +37,7 @@ Ella me preguntó si yo lideraría la expedición. LEAD
 Quizá él cambió de opinión. MIGHT
 /He might have changed his mind\./
 Eso es muy improbable. UNLIKELY
-/ (That's|That is) (highly|very) unlikely\./
+/(That's|That is) (highly|very) unlikely\./
 La aseguradora nos está timando. RIPPING
 /The insurance (company's|company is) ripping us off\./
 Te advertí que no contaras esa historia. AGAINST

@@ -1,13 +1,13 @@
 Yo a veces me pongo nervioso.
-/ (Sometimes I get nervous|I get nervous sometimes|I sometimes get nervous)\./
+/(Sometimes I get nervous|I get nervous sometimes|I sometimes get nervous)\./
 La clase es aburrida así que me estoy aburriendo.
 /The class is boring so (I'm|I am) getting bored\./
 Todavía estamos esperando tu respuesta.
-/ (We're|We are) still waiting for your answer\./
+/(We're|We are) still waiting for your answer\./
 ¿Estás preparado? Aún no.
 /Are you ready\? Not yet\./
 Ya he hecho las camas.
-/ (I've|I have) (made the beds already|already made the beds)\./
+/(I've|I have) (made the beds already|already made the beds)\./
 La película acaba de comenzar. <- Utilizar el Present Perfect!
 /The (film's|film has|movie's|movie has) just (started|begun)\./
 Si encuentro mis llaves abriré la puerta.
@@ -19,4 +19,4 @@ Si hubiera encontrado mis llaves habría abierto la puerta.
 Deberíamos hacer algo.
 /We should do something\./
 Tal vez deberíamos hacer algo.
-/ (Perhaps|Maybe) we (should|ought to) do something\./
+/(Perhaps|Maybe) we (should|ought to) do something\./

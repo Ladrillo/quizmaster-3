@@ -5,7 +5,7 @@ Ella pidió perdón por no decir la verdad. (for)
 Mis padres no aprueban mi comportamiento. (of)
 /My parents (do not|don't) approve of my (behavior|behaviour)\./
 Hemos decidido no ir a la fiesta. (against)
-/ (We've|We have) decided (not to go|against going) to the party\./
+/(We've|We have) decided (not to go|against going) to the party\./
 Sueño con convertirme en un hombre rico. (of)
 /I dream of becoming a rich man\./
 ¿Te apetece ir al cine? (like)
@@ -13,7 +13,7 @@ Sueño con convertirme en un hombre rico. (of)
 Ella insistió en hacer la compra. (on)
 /She insisted on doing the shopping\./
 Estamos impacientes por conocerte. (forward)
-/ (We're|We are) looking forward to meeting you\./
+/(We're|We are) looking forward to meeting you\./
 No tuvimos éxito encontrando un hotel barato. (in)
 /We (didn't succeed|did not succeed|were not successful|weren't successful) in finding a cheap hotel\./
 Mi esposa está pensando en dejar de fumar. (about)

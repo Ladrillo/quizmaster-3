@@ -9,9 +9,9 @@ Lamento no haberte contado la verdad.
 Algo me puso enfermo.
 /Something made me (sick|ill)\./
 Estaré en contacto contigo.
-/ (I'll|I will) be in touch with you\./
+/(I'll|I will) be in touch with you\./
 Me pondré en contacto contigo.
-/ (I'll|I will) get in touch with you\./
+/(I'll|I will) get in touch with you\./
 Si no hubiera llovido habríamos ido a las montañas.
 /If it (had not|hadn't) rained (we'd|we would) have gone to the mountains\./
 La niebla me impedía ver la carretera.
@@ -19,10 +19,10 @@ La niebla me impedía ver la carretera.
 Por favor aguarde.
 /Please hold on\./
 Yo preferiría no ir hoy sino mañana.
-/ (I'd|I would) (rather not|prefer not to) go today but tomorrow( instead)?\./
+/(I'd|I would) (rather not|prefer not to) go today but tomorrow( instead)?\./
 Él se disculpó.
 /He apologized\./
 Será difícil para mí ayudarte.
-/ (It'll|It will) be difficult for me to help you\./
+/(It'll|It will) be difficult for me to help you\./
 Ha habido un problema.
-/ (There's|There has) been a problem\./
+/(There's|There has) been a problem\./

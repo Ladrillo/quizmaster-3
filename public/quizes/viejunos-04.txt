@@ -3,11 +3,11 @@
 No deberías fumar tanto.
 /You (should not|shouldn't|ought not) smoke so much\./
 ¿Puedo tener un vaso de agua?
-/ (May|Can|Could) I have a glass of water\?/
+/(May|Can|Could) I have a glass of water\?/
 No puedo ayudarte esta tarde. Voy a ir al cine con John.
 /I (cannot|can not|can't) help you this afternoon\. (I'm|I am) (going to go|going) to the (cinema|movies) with John\./
 Tengo frío. Creo que cerraré la ventana.
-/ (I'm|I am) cold\. I think( that)? (I'll|I will) (shut|close) the window\./
+/(I'm|I am) cold\. I think( that)? (I'll|I will) (shut|close) the window\./
 ¿De quién son estas llaves?
 /Whose (are these keys|keys are these)\?/
 Aquellas llaves pertenecen a Paco.

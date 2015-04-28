@@ -1,9 +1,9 @@
 Ya era hora de que llegaras. -> It ____ arrived. (time)
 /It was about time( that)? you arrived\./
 Estamos a punto de despegar. -> We ____ off. 
-/ (We're|We are) about to take off\./
+/(We're|We are) about to take off\./
 Será mejor que estemos allá con antelación. -> We ____ time. (be)
-/ (We'd|We had) better be there ahead of time\./
+/(We'd|We had) better be there ahead of time\./
 Desde el principio él sabía cómo era ella. -> All ____ like.
 /All along he knew what she was like\./
 En conjunto, mi intento fue un desastre. -> All ____ disaster. 
@@ -13,7 +13,7 @@ En cuanto a tu rendimiento, tiene que mejorar. -> As ____ improve. (needs)
 Nuevos verbos frasales son creados continuamente. -> New ____ time. 
 /New phrasal verbs are created all the time\./
 No nos queda nada de munición. -> We ____ ammo. 
-/ (We're|We are) out of ammo\./
+/(We're|We are) out of ammo\./
 Ellos fueron criados en una granja. -> They ____ farm. (up)
 /They were brought up in a farm\./
 Esta es con diferencia la mejor opción. -> This ____ option.
@@ -29,7 +29,7 @@ Recortar calorías puede llevar a perder  peso. -> Cutting ____ loss. (may)
 Aprender inglés se reduce a estudiar un poco cada día. -> Learning ____ day. (down)
 /Learning English comes down to studying a little every day\./
 Naranjito se está poniendo otra vez de moda. -> Naranjito ____ back. (la frase tiene en total 4 palabras)
-/ (Naranjito's|Naranjito is) coming back\./
+/(Naranjito's|Naranjito is) coming back\./
 Me vendría bien un cigarrillo. -> I ____ cigarette. 
 /I could do with a cigarette\./
 No tiene nada que ver con eso. -> It has nothing ____ that.
@@ -39,6 +39,6 @@ Déjame en el aeropuerto a las cinco. -> Drop _____ five.
 Me desapunté. -> I ____ out.
 /I dropped out\./
 Tendremos que arreglárnoslas sin su consejo. -> We _____ advice.
-/ (We'll|We will) have to do without (his|her) advice\./
+/(We'll|We will) have to do without (his|her) advice\./
 No me siento capaz de tratar el asunto. -> I ____ matter. (up)
 /I (do not|don't) feel up to discussing the matter\./

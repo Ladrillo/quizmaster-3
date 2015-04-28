@@ -1,9 +1,9 @@
 Dirijo un equipo de diseñadores.
-/ (I lead|I manage|I am in charge of|I'm in charge of) a team of designers\./
+/(I lead|I manage|I am in charge of|I'm in charge of) a team of designers\./
 Mi trabajo implica lidiar con problemas.
 /My job involves dealing with problems\./
 Yo estoy al mando.
-/ (I'm|I am) in charge\./
+/(I'm|I am) in charge\./
 Ella trabaja a turnos.
 /She works in shifts\./
 ¿Te has apuntado?
@@ -17,13 +17,13 @@ Trabajador de taller.
 Trabajador de oficina.
 /White-collar worker\./
 Nombre que agrupa a quienes lideran una empresa.
-/ (Management|The management)\./
+/(Management|The management)\./
 ¡Estamos de huelga!
-/ (We're|We are) on strike!/
+/(We're|We are) on strike!/
 Sindicatos.
-/ (Trade|Labour) unions\./
+/(Trade|Labour) unions\./
 He sido ascendido.
-/ (I have|I've) been promoted\./
+/(I have|I've) been promoted\./
 Autónomo (sustantivo).
 /Freelancer\./
 Autónomo (adjetivo).

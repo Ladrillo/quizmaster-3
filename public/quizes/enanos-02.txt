@@ -11,11 +11,11 @@ Ella probó la ensalada pero (a ella) no le gustó.
 ¿Fuma ella? Ella solo fuma los sábados.
 /Does she smoke\? She (only smokes|smokes only) on Saturdays\./
 ¿Qué está ella haciendo? Ella está haciendo su cama.
-/ (What's|What is) she doing\? (She's|She is) making her bed\./
+/(What's|What is) she doing\? (She's|She is) making her bed\./
 ¿Tienes mi nueva dirección? No lo creo.
-/ (Do you have|Have you got|Have you) my new address\? I (don't|do not) think so\./
+/(Do you have|Have you got|Have you) my new address\? I (don't|do not) think so\./
 Fumo tanto. Fumo demasiado.
-/ I smoke so much. I smoke too much\./
+/I smoke so much. I smoke too much\./
 Ella a menudo visita a sus primos.
 /She (often visits her cousins|visits her cousins often)\./
 Lleva esto contigo. Lo necesitarás.

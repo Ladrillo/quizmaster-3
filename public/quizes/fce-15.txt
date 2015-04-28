@@ -1,19 +1,19 @@
 Ha pasado cierto tiempo desde el día de nuestra boda. (Comenzar por 'It')
-/ (It's|It has) been (some time|a while) since our wedding( day)?\./
+/(It's|It has) been (some time|a while) since our wedding( day)?\./
 ¿Has sabido de Sarah? (Queriendo decir: ¿Has tenido noticias de...)
 /Have you heard from Sarah\?/
 A pesar de sus muchas dudas, Pedro siguió a Jesús.
-/ (Despite|In spite of) his many doubts, (Pedro|Peter) followed Jesus\./
+/(Despite|In spite of) his many doubts, (Pedro|Peter) followed Jesus\./
 Somos tales idiotas. Esto debería haber sido tan fácil. (Ojo: En inglés 'idiot' es sustantivo)
-/ (We're|We are) such idiots\. This should have been so (simple|easy|straightforward)\./
+/(We're|We are) such idiots\. This should have been so (simple|easy|straightforward)\./
 Estoy tan orgullosa de ti. Has sido una chica tan paciente.
-/ (I'm|I am) so proud of you\. (You have|You've) been such a patient (lady|girl)\./
+/(I'm|I am) so proud of you\. (You have|You've) been such a patient (lady|girl)\./
 Se espera que Pablo Iglesias sea elegido. (Comenzar por: 'Pablo Iglesias')
 /Pablo Iglesias is expected to be (chosen|elected)\./
 Si te hubieras mantenido callado la policía nunca nos habría encontrado.
 /If (you had|you'd) (kept|been) (silent|quiet)( the)? police (never would have|would have never|would never have) found us\./
 Es hora de tomar una decisión, señor Anderson.
-/ (It's|It is) time to (make a choice|make a decision|take a decision), (Mister|Mr\.|Mr) Anderson\./
+/(It's|It is) time to (make a choice|make a decision|take a decision), (Mister|Mr\.|Mr) Anderson\./
 ¿Me estás culpando por el retraso?
 /Are you blaming (the delay on me|me for the delay)\?/
 Ojalá hubiera podido verla una vez más.

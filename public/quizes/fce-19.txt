@@ -5,19 +5,19 @@ Tal vez haya habido un accidente. (NO usar 'perhaps', ni 'maybe')
 Quizás ella no me oyó. (NO usar 'perhaps', ni 'maybe')
 /She (might|may) not have heard me\./
 ¿Puedo hacer una sugerencia?
-/ (May|Can|Could) I make a suggestion\?/
+/(May|Can|Could) I make a suggestion\?/
 ¡Has montado un folĺón!
-/ (You have|You've) made a mess!/
+/(You have|You've) made a mess!/
 No tiene sentido disculparse ahora. (NO usar 'It makes no sense to...')
-/ (There's no|There is no|There isn't any) point in apologizing now\./
+/(There's no|There is no|There isn't any) point in apologizing now\./
 Siempre y cuando no hagas ruido.
 /As long as you( do not make any noise| don't make any noise| don't make noise| do not make noise| make no noise| are quiet|'re quiet)\./
 Hagamos un trato.
-/ (Let us|Let's) make a deal\./
+/(Let us|Let's) make a deal\./
 Ella no es tan amable como solía ser.
-/ (She's not|She is not|She isn't) as (kind|nice) as she used to( be)?\./
+/(She's not|She is not|She isn't) as (kind|nice) as she used to( be)?\./
 Por el momento estoy haciendo voluntariado.
-/ (At present|At the moment|For the time being) (I'm|I am) volunteering\./
+/(At present|At the moment|For the time being) (I'm|I am) volunteering\./
 No sé. Búscalo en el dictionario.
 /I (do not|don't) know\. Look it up in the dictionary\./
 Ella no apareció a tiempo para la cena. (NO usar 'arrive')
@@ -31,10 +31,10 @@ Apenas nadie cree en la astrología.
 Casi nada de dinero fue gastado en los parados.
 /Hardly any money was spent on the unemployed\./
 Más te vale hacer un esfuerzo.
-/ (You had|You'd) better make an effort\./
+/(You had|You'd) better make an effort\./
 Cada soldado. Todo soldado. Todos los soldados.
 /Each soldier\. Every soldier\. All( the)? soldiers\./
 Más nos vale acostumbrarnos a ello.
-/ (We'd|We had) better get used to it\./
+/(We'd|We had) better get used to it\./
 No estoy acostumbrado a estar solo.
-/ (I am|I'm) not used to being (alone|on my own|by myself)\./
+/(I am|I'm) not used to being (alone|on my own|by myself)\./

@@ -11,11 +11,11 @@ Anna parece cansada.
 Ojalá (yo) no hubiera comprado el vestido rojo.
 /I (wish I had not bought|wish I hadn't bought|regret buying|regret having bought) the red dress\./
 A pesar del buen tiempo, nos perdimos.
-/ (In spite of|Despite) the good weather, we got lost\./
+/(In spite of|Despite) the good weather, we got lost\./
 A pesar de el tiempo era bueno, perdimos el tren.
-/ (Although|Though|Even though) the weather was good, we missed the train\./
+/(Although|Though|Even though) the weather was good, we missed the train\./
 Alguien podría haber ayudado a mi abuela.
-/ (Somebody|Someone) could have helped my grandmother\./
+/(Somebody|Someone) could have helped my grandmother\./
 Esto es lo que me gusta de trabajar aquí.
 /This is what I (like|love) about working here\./
 Él cometió un error tan estúpido.
@@ -37,7 +37,7 @@ Ella cerró la puerta con llave por error.
 Cada puerta necesita una llave distinta.
 /Each door needs a different key\./
 Hay un letrero en cada puerta.
-/ (There is|There's) a sign on (every door|all doors|all the doors)\./
+/(There is|There's) a sign on (every door|all doors|all the doors)\./
 ¿Te lo estás pasando bien?
 /Are you (having fun|enjoying yourself)\?/
 Las noticias no son buenas.
@@ -49,4 +49,4 @@ Puedes elegir entre cerveza, vino y sidra.
 ¿Cómo de profundo es el océano?
 /How deep is the ocean\?/
 ¿Cuál es la profundidad del océano?
-/ (What is|What's) the (depth of the ocean|ocean's depth)\?/
+/(What is|What's) the (depth of the ocean|ocean's depth)\?/

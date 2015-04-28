@@ -1,5 +1,5 @@
 Esto no es lo bastante interesante como para que nos quedemos aquí.
-/ (This is not|This isn't) interesting enough( for us)? to (stay|be) here\./
+/(This is not|This isn't) interesting enough( for us)? to (stay|be) here\./
 La maleta es demasiado pesada para que nosotros podamos llevarla.
 /The suitcase is too heavy( for us)? to carry( it)?\./
 Un átomo no es lo bastante grande como para que nosotros lo veamos.

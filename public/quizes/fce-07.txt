@@ -17,7 +17,7 @@ Mi madre es probable que no venga. Usar not likely/unlikely + to + verbo
 Aparte de los problemas habituales, nada interesante pasó.
 /Apart from the usual problems, nothing (of interest|interesting) (occurred|happened)\./
 Él está acostumbrado a estar solo.
-/ (He's|He is) used to being (alone|on his own|by himself)\./
+/(He's|He is) used to being (alone|on his own|by himself)\./
 Ella nunca se acostumbró a ese estilo de vida.
 /She never got used to that (way of life|lifestyle)\./
 Los médicos están acostumbrados a ver cosas extrañas.

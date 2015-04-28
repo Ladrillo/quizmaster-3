@@ -1,7 +1,7 @@
 Yo no bebo.
 /I (do not|don't) drink\./
 Ella no está bebiendo.
-/ (She's not|She is not|She isn't) drinking\./
+/(She's not|She is not|She isn't) drinking\./
 ¿Estás tú bebiendo?
 /Are you drinking\?/
 ¿Qué estás tú bebiendo?
@@ -15,11 +15,11 @@ Ella no está bebiendo.
 Yo estaba bebiendo ayer a las cinco.
 /I was drinking yesterday at (five|five o'clock|5 o'clock|5)\./
 Yo no beberé este agua.
-/ (I'll not|I will not|I won't) drink this water\./
+/(I'll not|I will not|I won't) drink this water\./
 ¿Qué estás haciendo?
 /What are you doing\?/
 Ellos estarán trabajando.
-/ (They'll|They will) be working\./
+/(They'll|They will) be working\./
 ¿Has estudiado?
 /Have you studied\?/
 ¿Hablas inglés?
@@ -43,7 +43,7 @@ Ellos deben estudiar.
 ¿Estás escuchando?
 /Are you listening\?/
 No iré mañana.
-/ (I'll not|I won't|I will not) go tomorrow\./
+/(I'll not|I won't|I will not) go tomorrow\./
 Yo no fui ayer.
 /I (did not|didn't) go yesterday\./
 ¿Sabe ella mi nombre?

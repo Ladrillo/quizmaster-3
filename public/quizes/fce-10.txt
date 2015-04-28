@@ -9,7 +9,7 @@ Fue un comentario realmente malintencionado.
 Yo no tenía la intención de hacerte daño. (Usar 'mean'.)
 /I (didn't|did not) mean to hurt you\./
 He hecho preparativos para esta noche. (No usar 'preparations' ni 'plans'.)
-/ (I have|I've) made arrangements for tonight\./
+/(I have|I've) made arrangements for tonight\./
 No puedo llegar a fin de mes.
 /I (can not|cannot|can't) make ends meet\./
 Se teme que el barco se ha hundido. (Comenzar por 'The...')

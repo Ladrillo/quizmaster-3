@@ -3,7 +3,7 @@ El olor de ese lugar me da bajón. <- Usar phrasal
 Creo que la alarma sonará a las siete. <- Usar phrasal
 /I (believe|think|reckon|guess)( that)? the alarm will go off at seven( o'clock)?\./
 Tengo que ir al médico pero lo sigo posponiendo. <- Usar phrasal
-/ (I've|I must|I have to) go to the doctor but I (keep|continue) putting it off\./
+/(I've|I must|I have to) go to the doctor but I (keep|continue) putting it off\./
 Le dije (a él) que recogiera sus juguetes. <- Usar phrasal
 /I told him to (put away his toys|put his toys away)\./
 La puerta tiene dos pies de ancho.

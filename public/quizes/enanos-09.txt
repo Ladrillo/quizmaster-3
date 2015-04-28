@@ -1,19 +1,19 @@
 Un coche golpeó a mi perro.
-/ (A|One) (car|automobile) hit my dog\./
+/(A|One) (car|automobile) hit my dog\./
 Mi perro fue golpeado por un coche.
-/ My dog was hit by a car\./
+/My dog was hit by a car\./
 Una serpiente mordió a mi mejor amigo.
 /A (serpent|snake) bit my best friend\./
 Mi mejor amigo fue mordido por una serpiente.
 /My best friend was bitten by a (snake|serpent)\./
 Él está rompiendo su promesa.
-/ (He's|He is) breaking his promise\./
+/(He's|He is) breaking his promise\./
 Su promesa está siendo rota.
 /His promise is being broken\./
 El gobierno compra toneladas de comida.
-/ (Government|The government) buys (tons|tonnes) of food\./
+/(Government|The government) buys (tons|tonnes) of food\./
 Toneladas de comida son compradas por el gobierno.
-/ (Tonnes|Tons) of food are bought by (government|the government)\./
+/(Tonnes|Tons) of food are bought by (government|the government)\./
 Mis padres está construyendo una nueva casa.
 /My parents are building a new house\./
 Una nueva casa está siendo construida por mis padres.
@@ -21,7 +21,7 @@ Una nueva casa está siendo construida por mis padres.
 Dios me ha elegido.
 /God has chosen me\./
 Yo he sido elegido por Dios.
-/ (I've|I have) been chosen by God\./
+/(I've|I have) been chosen by God\./
 Rusia ha dibujado nuevas fronteras. (Frontera: border)
 /Russia has drawn new borders\./
 Nuevas fronteras han sido dibujadas por Rusia.
@@ -37,10 +37,10 @@ Tú no puedes esconder esa mentira.
 Esa mentira no puede ser escondida por ti.
 /That lie (can not|can't|cannot) be hidden by you\./
 Ellos te recordarán siempre.
-/ (They'll|They will) (always remember you|remember you always)\./
+/(They'll|They will) (always remember you|remember you always)\./
 Tú siempre serás recordado.
-/ (You'll always be remembered|You will always be remembered|You'll be remembered always|You'll be remembered always)\./
+/(You'll always be remembered|You will always be remembered|You'll be remembered always|You'll be remembered always)\./
 Alguien debe hacer esto.
-/ (Somebody|Someone) (has to|must) (do|make) this\./
+/(Somebody|Someone) (has to|must) (do|make) this\./
 Esto debe ser hecho por alguien.
 /This (must|has to) be (done|made) by (somebody|someone)\./

@@ -13,12 +13,12 @@ Me gusta fumar un cigarrillo después de la comida.
 Esto debilitará nuestra amistad.
 /This will weaken our friendship\./
 Hay una escasez de efectivo en Grecia.
-/ (There's|There is) a shortage of cash in Greece\./
+/(There's|There is) a shortage of cash in Greece\./
 Ella echó un vistazo a su reloj.
 /She glanced at her watch\./
 Es urgente que Europa ayude a Grecia.
-/ (It's|It is) urgent that Europe help Greece\./
+/(It's|It is) urgent that Europe help Greece\./
 El Conejo Blanco siempre va tarde.
 /The White (Rabbit is|Rabbit's) always late\./
 Estoy a punto de perder los estribos.
-/ (I'm|I am) about to lose my temper\./
+/(I'm|I am) about to lose my temper\./

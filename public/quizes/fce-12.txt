@@ -1,5 +1,5 @@
 No hemos tenido noticias de Gurb desde ayer.
-/ (We've not|We have not|We haven't) heard from Gurb since yesterday\./
+/(We've not|We have not|We haven't) heard from Gurb since yesterday\./
 Beber y conducir no es recomendable. (No comenzar por 'It', no usar 'recommended'.)
 /Drinking and driving (is not|isn't) advisable\./
 La temperatura está subiendo.
@@ -9,7 +9,7 @@ La temperatura está subiendo.
 Casi nunca nos montamos en el autobús.
 /We hardly ever (get on|catch|use|take) the bus\./
 Ella no está acostumbrada a hablar en público.
-/ (She's not|She is not|She isn't) used to speaking in public\./
+/(She's not|She is not|She isn't) used to speaking in public\./
 Prometimos no olvidar.
 /We promised not to forget\./
 El caracol apenas se había movido.

@@ -1,7 +1,7 @@
 Este edificio fue construido hace sesenta años.
 /This building was built sixty years ago\./
 He sido mordido por perros dos veces.
-/ (I have|I've) been bitten by dogs (two times|twice)\./
+/(I have|I've) been bitten by dogs (two times|twice)\./
 Los inmigrantes fueron arrojados al mar.
 /The migrants were thrown to( the)? sea\./
 Él fue traido a España cuando él era un niño.
@@ -19,7 +19,7 @@ La caja fue enviada a la dirección equivocada.
 Ese libro había sido escrito ya.
 /That book (had already been written|had been written already)\./
 Sus ideas no son comprendidas.
-/ (His|Her) ideas (aren't|are not) understood\./
+/(His|Her) ideas (aren't|are not) understood\./
 El cuadro fue robado durante la noche.
 /The painting was stolen during the night\./
 La canción será cantada esta noche.

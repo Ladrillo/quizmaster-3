@@ -25,6 +25,6 @@ Ella no tuvo que estudiar demasiado.
 Mi hermano podría nacer esta noche. (Comenzar por 'My brother + modal verb')
 /My brother (might|could|may) be born tonight\./
 Nadie viviría en esa casa.
-/ (Nobody|No one|No-one) would live in that house\./
+/(Nobody|No one|No-one) would live in that house\./
 ¿Deberíamos esperar a mis abuelos?
 /Should we wait for my grandparents\?/

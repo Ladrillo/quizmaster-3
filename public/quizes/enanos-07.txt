@@ -13,7 +13,7 @@
 ¿Dónde compran ellos alcohol?
 /Where do they buy alcohol\?/
 Estoy esperándote.
-/ (I am|I'm) waiting for you\./
+/(I am|I'm) waiting for you\./
 Nuestros primos están tomando pizza.
 /Our cousins are (having|eating)( some)? pizza\./
 ¿Estás haciendo tu cama?
@@ -29,7 +29,7 @@ Ella me quería un montón.
 A las cinco en punto yo estaba conduciendo mi coche.
 /At five( o'clock)? I was driving my (car|automobile)\./
 Yo he estudiado cinco páginas.
-/ (I have|I've) studied five pages\./
+/(I have|I've) studied five pages\./
 ¿Has estado en París alguna vez?
 /Have you ever (been to|visited|stayed in) Paris\?/
 ¿Qué has hecho?
@@ -43,6 +43,6 @@ Ellos deberían escuchar a la profesora.
 Creo que Osasuna ganará.
 /I (think|believe)( that)? Osasuna (will|is going to) win\./
 Yo soy más rápido pero no más alto.
-/ (I'm|I am) (quicker|faster) but not taller\./
+/(I'm|I am) (quicker|faster) but not taller\./
 Peter no es tan fuerte como su padre.
 /Peter (is not|isn't) as strong as his (father|dad)\./

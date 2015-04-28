@@ -1,7 +1,7 @@
 Nunca me acostumbraré a trabajar a la noche.
-/ (I'll never|I will never|I won't ever|I will not ever) get used to working at night\./
+/(I'll never|I will never|I won't ever|I will not ever) get used to working at night\./
 No estoy acostumbrado a ser insultado.
-/ (I am|I'm) not used to being insulted\./
+/(I am|I'm) not used to being insulted\./
 Ella se hace el pelo cada sábado. (Se lo hace otra persona.)
 /She (gets|has) her hair done every Saturday\./
 Él suspendió porque no se esforzó. (No usar la palabra 'no'.)
@@ -9,12 +9,12 @@ Ella se hace el pelo cada sábado. (Se lo hace otra persona.)
 No hay tantas opciones como solía haber.
 /There (are not|aren't) as many options as there used to be\./
 Hay menos dinero y no hay tanto tiempo.
-/ (There's|There is) less money and (there's not|there is not|there isn't|not) as much time\./
+/(There's|There is) less money and (there's not|there is not|there isn't|not) as much time\./
 La cocaína me impide disfrutar de la vida.
-/ (Cocaine|The cocaine) (prevents|stops) me from enjoying( my)? life\./
+/(Cocaine|The cocaine) (prevents|stops) me from enjoying( my)? life\./
 Le di las gracias a mi amigo por ayudarme.
 /I thanked my friend for helping me\./
 El mal tiempo nos impidió ir más allá.
-/ (The bad weather|Bad weather|The weather) (prevented|stopped) us from going (on|further|any further|farther)\./
+/(The bad weather|Bad weather|The weather) (prevented|stopped) us from going (on|further|any further|farther)\./
 Debido a esto, no pudimos hacer un trato.
-/ (Due to|Because of) this, we (could not|couldn't|were not able to|weren't able to|were unable to) make a deal\./
+/(Due to|Because of) this, we (could not|couldn't|were not able to|weren't able to|were unable to) make a deal\./

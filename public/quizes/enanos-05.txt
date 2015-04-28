@@ -1,5 +1,5 @@
 Yo soy amado por mis padres.
-/ (I'm|I am) loved by my parents\./
+/(I'm|I am) loved by my parents\./
 Las camas son hechas a las nueve.
 /The beds are made at nine( o'clock)?\./
 El edificio fue construido el año pasado.

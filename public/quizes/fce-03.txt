@@ -7,13 +7,13 @@ No hay ningún lápiz en el cajón.
 No queda ningún lápiz en la mesa.
 /There (are no|are not any|aren't any) pencils left on the table\./
 No hay problema.
-/ (There is no problem|There's no problem|There are no problems|There aren't any problems|No problem)\./
+/(There is no problem|There's no problem|There are no problems|There aren't any problems|No problem)\./
 Esto es entre tú y yo.
 /This is between you and me\./
 Éste es un problema entre muchos.
 /This is (a|one) problem among many( problems)?\./
 No me hagas reir.
-/ (Do not|Don't) make me laugh\./
+/(Do not|Don't) make me laugh\./
 Mi esposa me hizo dejar de fumar.
 /My wife made me (quit|give up|stop) smoking\./
 Me hicieron esperar, lo cual fue irritante.
@@ -21,7 +21,7 @@ Me hicieron esperar, lo cual fue irritante.
 A él se le ocurrió una brillante idea. (¡Frasal!)
 /He came up with a brilliant idea\./
 Consulta estas palabras en el diccionario antes de preguntar a Gabriel. (¡Frasal!)
-/ (Look up these words|Look these words up) in the dictionary before asking Gabriel\./
+/(Look up these words|Look these words up) in the dictionary before asking Gabriel\./
 Él apareció dos horas tarde. (¡Frasal!)
 /He (turned up|showed up) two hours late\./
 Ella dijo que no haría copia de seguridad de mis archivos. (¡Frasal!)
@@ -31,4 +31,4 @@ Si hubieras sido más cuidadoso nada habría pasado.
 Él no llegó puntual. Pero él llegó a tiempo para la cena.
 /He (didn't|did not) arrive on time\. But he (did arrive|arrived) in time for (dinner|supper)\./
 El mal tiempo nos impidió salir afuera.
-/ (The bad weather|Bad weather) prevented us from (going|getting) (out|outside)\./
+/(The bad weather|Bad weather) prevented us from (going|getting) (out|outside)\./

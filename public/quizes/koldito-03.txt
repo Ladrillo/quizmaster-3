@@ -25,4 +25,4 @@ Llegué a casa a las nueve. (Llegar es Arrive, regular. You arrive home but you 
 Me fui a la cama muy temprano. (Ir a la cama = go to bed, went to bed, gone to bed)
 /I went to bed very early\./
 El día fue bueno.
-/ (The day was good|It was a good day)\./
+/(The day was good|It was a good day)\./

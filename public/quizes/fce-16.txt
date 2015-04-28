@@ -5,7 +5,7 @@ Recuerdo dejando a tu madre en el aeropuerto.
 Me gusta deshacerme de la basura en primer lugar.
 /I like to get rid of the (garbage|trash|rubish) first\./
 ¡Estamos en casa, por fin!
-/ (We are|We're) home, at last!/
+/(We are|We're) home, at last!/
 Afloja el nudo.
 /Loosen the knot\./
 Peso doscientas libras.

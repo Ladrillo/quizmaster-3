@@ -9,7 +9,7 @@ Osasuna tal vez gane. (No recurrir a 'Maybe Osasuna will win' ni 'Perhaps Osasun
 Osasuna debe ganar.
 /Osasuna (has to|must) win\./
 ¿Puedo ir a la cocina?
-/ (May|Can|Could) I go to the kitchen\?/
+/(May|Can|Could) I go to the kitchen\?/
 No tienes que venir ahora. Puedo esperar.
 /You (don't|do not) (have to|need to) come now\. I can wait\./
 Podrías estudiar un poco más, creo.
@@ -21,4 +21,4 @@ Esto tal vez sea un problema. (No recurrir a 'perhaps' ni 'maybe')
 ¿Podrás ayudarme?
 /Will you be able to help me\?/
 ¿No deberíamos decir algo?
-/ (Should not|Shouldn't) we say (anything|something)\?/
+/(Should not|Shouldn't) we say (anything|something)\?/

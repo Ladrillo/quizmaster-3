@@ -1,5 +1,5 @@
 Preferiría no hablar de esto. -> I ____ this. (discuss)
-/ (I'd rather not|I would rather not|I prefer not to) discuss( about)? this\./
+/(I'd rather not|I would rather not|I prefer not to) discuss( about)? this\./
 Ella negó haber mentido sobre su currículum. -> She ____ resume. (denied)
 /She denied (lying|having lied) about her resume\./
 Me llevó dos horas renovar mi carnet de conducir. -> Getting ____ hours. (renewed)
@@ -11,11 +11,11 @@ Nos pasamos más tiempo del esperado haciendo preparativos para la fiesta. -> We
 Será mejor que mantengas la situación controlada. -> You had ____ control. (keep)
 /You had better keep the situation under control\./
 Estamos de pie junto a la ventana. -> We ____ window. (standing)
-/ (We're|We are) standing (next to|by) the window\./
+/(We're|We are) standing (next to|by) the window\./
 Se piensa que nuestros líderes están robándonos. -> Our ____ us. (thought)
 /Our leaders are thought to be (robbing|stealing from) us\./
 Me sacan el diente la semana que viene. -> I ____ week. (having)
-/ (I'm|I am) having (a|my|the) tooth pulled out next week\./
+/(I'm|I am) having (a|my|the) tooth pulled out next week\./
 Si no hubiera estado tan nublado habríamos ido a pescar. -> If ____ fishing. (cloudy)
 /If it (had not|hadn't) been so cloudy (we would|we'd) have gone fishing\./
 Si no hubiera estado tan nublado habríamos ido a pescar. -> If ____ fishing. (clouds)
@@ -31,7 +31,7 @@ Su falta de atención le impide mejorar. -> His ____ improving. (prevents)
 Yo empecé a trabajar como camarero más bien tarde.-> I ____ late. (waiter)
 /I (started|began) (working|to work) as a waiter (quite|rather) late\./
 Está previsto que ellos se reunan mañana. -> They ____ tomorrow. (scheduled)
-/ (They're|They are) scheduled to meet tomorrow\./
+/(They're|They are) scheduled to meet tomorrow\./
 Asegúrate de que queda suficiente gasolina. Make ____ left. (gas)
 /Make sure( that)? (there's|there is) enough gas left\./
 Todo fue según el plan. -> Everything ____ plan. (to)
@@ -39,8 +39,8 @@ Todo fue según el plan. -> Everything ____ plan. (to)
 Si no tenemos cuidado es probable que ocurran accidentes. -> Accidents ____ careful. (likely)
 /Accidents are likely to (occur|happen) (unless we're|unless we are|if we are not|if we aren't|if we're not) careful\./
 Es solo cuestión de tiempo que se acabe el petroleo. -> It ____ out. (before)
-/ (It's|It is) (just|only) a (matter|question) of time before( the)? oil runs out\./
+/(It's|It is) (just|only) a (matter|question) of time before( the)? oil runs out\./
 Hasta cien personas han muerto en el terremoto. -> As many ____ earthquake. (people)		
 /As many as (one hundred|a hundred|100) people have died in the earthquake\./
 No hay suficiente espacio para ellos en este aula. -> There ____ classroom. (room)
-/ (There's not|There isn't|There is not) enough room for them in this classroom\./
+/(There's not|There isn't|There is not) enough room for them in this classroom\./
