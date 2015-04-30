@@ -1,5 +1,5 @@
 Preferiría no hablar de esto. -> I ____ this. (discuss)
-/(I'd rather not|I would rather not|I prefer not to) discuss( about)? this\./
+/(I'd rather not|I would rather not|I prefer not to) discuss this\./
 Ella negó haber mentido sobre su currículum. -> She ____ resume. (denied)
 /She denied (lying|having lied) about her resume\./
 Me llevó dos horas renovar mi carnet de conducir. -> Getting ____ hours. (renewed)
@@ -7,15 +7,15 @@ Me llevó dos horas renovar mi carnet de conducir. -> Getting ____ hours. (renew
 Me costó mucho tiempo hacer el equipaje. -> I ____ pack. (long)
 /I took (a long time|long) to pack\./
 Nos pasamos más tiempo del esperado haciendo preparativos para la fiesta. -> We ____ party. (arrangements)
-/We (spent|took) (longer|more time) than( we)? expected making arrangements for the party\./
+/We (spent|took) (longer|more time) than( we| it was)? expected making arrangements for the party\./
 Será mejor que mantengas la situación controlada. -> You had ____ control. (keep)
 /You had better keep the situation under control\./
 Estamos de pie junto a la ventana. -> We ____ window. (standing)
 /(We're|We are) standing (next to|by) the window\./
 Se piensa que nuestros líderes están robándonos. -> Our ____ us. (thought)
-/Our leaders are thought to be (robbing|stealing from) us\./
+/Our leaders are thought to be (robbing us|stealing from us|ripping us off)\./
 Me sacan el diente la semana que viene. -> I ____ week. (having)
-/(I'm|I am) having (a|my|the) tooth pulled out next week\./
+/(I'm|I am) having (a|my|the) tooth (pulled out|taken out|removed) next week\./
 Si no hubiera estado tan nublado habríamos ido a pescar. -> If ____ fishing. (cloudy)
 /If it (had not|hadn't) been so cloudy (we would|we'd) have gone fishing\./
 Si no hubiera estado tan nublado habríamos ido a pescar. -> If ____ fishing. (clouds)

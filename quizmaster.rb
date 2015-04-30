@@ -100,4 +100,3 @@ post '/quizmaster' do
 
   erb :quiz
 end
-
