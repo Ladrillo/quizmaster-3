@@ -18,21 +18,20 @@
   <% elsif @status == "incorrect" %>
     
     <% @attempts.each do |attempt| %>
-      <h4><i class="wrong"><%= attempt %></i></h4>
+      <h4 class="wrong"><i><%= attempt %></i></h4>
     <% end %>
 
     <%= erb :_answer_form %>
 
 
   <% elsif @status == "failure" %>
-
     <% @attempts.each do |attempt| %>
-      <h4><i class="wrong"><%= attempt %></i></h4>
+      <h4 class="wrong"><i><%= attempt %></i></h4>
     <% end %>
 
     <% @current_question_answers.each do |answer| %>
-      <h4 class="answer"><%= answer %></h4>
-    <% end %>
+      <h4 class="answer"><i><%= answer %></i></h4>
+  <% end %>
 
     <%= erb :_next_or_finished %>
 

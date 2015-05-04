@@ -1,14 +1,17 @@
+.logo-text {
+	color: red;
+}
 
 .wrong {
 	color: red;
 }
 
 .right {
-	color: green;
+	color: rgb(103, 155, 103);
 }
 
 .answer {
-	color: blue;
+	color: #337ab7;
 }
 
 /*body {

@@ -15,8 +15,8 @@ Ella probó la ensalada pero (a ella) no le gustó.
 ¿Tienes mi nueva dirección? No lo creo.
 /(Do you have|Have you got|Have you) my new address\? I (don't|do not) think so\./
 Fumo tanto. Fumo demasiado.
-/I smoke so much. I smoke too much\./
+/I smoke so much\. I smoke too much\./
 Ella a menudo visita a sus primos.
 /She (often visits her cousins|visits her cousins often)\./
 Lleva esto contigo. Lo necesitarás.
-/Take this with you. (You will|You'll|You're going to|You are going to) need it\./
+/Take this with you\. (You will|You'll|You're going to|You are going to) need it\./
