@@ -1,3 +1,4 @@
+
 .wrong {
 	color: red;
 }
@@ -9,3 +10,36 @@
 .answer {
 	color: blue;
 }
+
+/*body {
+	padding: 0px;
+	border: 0px solid black;
+	margin: 0px;
+}
+
+div {
+	padding: 0px;
+	border: 0px solid black;
+	margin: 0px;
+}
+
+h1 {
+	padding: 0px;
+	border: 0px solid black;
+	margin: 0px;
+}
+
+p {
+	padding-top: 0px;
+	border: 0px solid black;
+	margin: 0px;
+}*/
+
+/** {
+	box-sizing: border-box;
+	padding: 5px;
+	border: 2px solid black;
+	margin: 5px;
+}*/
+/*	height: 200px;
+	width: 250px;*/

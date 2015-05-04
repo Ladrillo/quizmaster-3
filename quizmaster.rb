@@ -5,7 +5,7 @@ require 'sinatra'
 # require 'pry'
 
 
-enable :sessions 
+enable :sessions
 
 
 before '/quizmaster' do
