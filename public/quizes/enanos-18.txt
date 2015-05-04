@@ -1,0 +1,30 @@
+No pudimos derrotar a Oberena.
+/We (couldn't|could not|were not able to|weren't able to|were unable to) beat Oberena\./
+Oberena no pudo ser derrotada.
+/Oberena (couldn't|could not) be beaten\./
+Un perro me mordió. ¿Debería ir al médico?
+/A dog bit me\. Should I go to the doctor\?/
+Mi hija fue mordida por un perro. ¿Deberíamos llevarla al hospital?
+/My daughter was bitten by a dog\. Should we take her to( the)? hospital\?/
+Alguien ha roto la ventana.
+/(Somebody|Someone)('s| has) broken the window\./
+La ventana ha sido rota al menos dos veces.
+/The window('s| has) been broken at least (two times|twice)\./
+El faraón construyó la pirámide hace 4500 años.
+/The pharaoh built the pyramid (4,500|4500) years ago\./
+La pirámide fue construida por un ejército de trabajadores.
+/The pyramid was built (using|with|by) an army of workers\./
+Orange tal vez compre Jazztel. (No usar perhaps ni maybe)
+/Orange (could|may|might) (buy Jazztel out|buy out Jazztel|buy Jazztel)\./
+Jazztel va a ser comprada por Orange.
+/Jazztel('s| is) (being|going to be) bought( out)? by Orange\./
+El coche no ha sido conducido desde el año pasado.
+/The car('s not| hasn't| has not) been driven since last year\./
+Los turistas aún no han sido encontrados.
+/The tourists (still (haven't|have not) been found|(haven't|have not) been found yet)\./
+Todo el dinero está siendo robado.
+/All( of)? the money('s| is) being stolen\./
+El banco fue robado anoche.
+/The bank was robbed last night\./
+La Tierra fue golpeada por un meteorito y todos los dinosaurios murieron.
+/(The )?Earth was hit by a (meteor|meteorite|asteroid) and all( the)? dinosaurs died\./

@@ -1,4 +1,4 @@
-El olor de ese lugar me da bajón. <- Usar phrasal
+El olor en ese lugar me da bajón. <- Usar phrasal
 /The smell (in|at|of) that place puts me off\./
 Creo que la alarma sonará a las siete. <- Usar phrasal
 /I (believe|think|reckon|guess)( that)? the alarm will go off at seven( o'clock)?\./
@@ -7,9 +7,9 @@ Tengo que ir al médico pero lo sigo posponiendo. <- Usar phrasal
 Le dije (a él) que recogiera sus juguetes. <- Usar phrasal
 /I told him to (put away his toys|put his toys away)\./
 La puerta tiene dos pies de ancho.
-/The door is two (feet|foot) wide\./
+/The door('s| is) two (feet|foot) wide\./
 Él quería saber cuánto dinero ganaban mis padres.
-/He wanted to know how much money my parents (earned|made)\./
+/He wanted to know how much( money)? my parents (earned|made)\./
 Me hicieron las uñas en un lugar muy barato.
 /I (had|got) my nails done at a very cheap place\./
 Ella me acusó de espiarle.
