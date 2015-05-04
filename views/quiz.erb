@@ -1,47 +1,55 @@
-<p><%= @feedback %>
-<% if !user_attempt_is_correct %>
-  <%= " You have #{attempt_number} attempts left." %></p>
-<% end %>
-<h3><%= @current_question_wording %></h3>
+<div class="well">
+
+  <p><%= @feedback %>
 
 
-<% if @status == 'reset' %>
-  <%= erb :_answer_form %>
-
-
-<% elsif @status == "incorrect" %>
-  
-  <% @attempts.each do |attempt| %>
-    <h3><i class="wrong"><%= attempt %></i></h3>
+  <% if !user_attempt_is_correct %>
+    <%= " You have #{attempt_number} attempts left." %></p>
   <% end %>
 
-  <%= erb :_answer_form %>
+
+  <h4><%= @current_question_wording %></h4>
 
 
-<% elsif @status == "failure" %>
+  <% if @status == 'reset' %>
+    <%= erb :_answer_form %>
 
-  <% @attempts.each do |attempt| %>
-    <h3><i class="wrong"><%= attempt %></i></h3>
-  <% end %>
 
-  <% @current_question_answers.each do |answer| %>
-    <h3 class="answer"><%= answer %></h3>
-  <% end %>
-
-  <%= erb :_next_or_finished %>
-
+  <% elsif @status == "incorrect" %>
     
-<% elsif @status == "correct" %>
+    <% @attempts.each do |attempt| %>
+      <h4><i class="wrong"><%= attempt %></i></h4>
+    <% end %>
 
-  <% @attempts.each do |attempt| %>
-    <% if attempt == @attempts[-1] %>
-      <h3><i class="right"><%= attempt %></i></h3>
-    <% else %>
-      <h3><i class="wrong"><%= attempt %></i></h3>
-    <% end %> 
-  <% end %>
+    <%= erb :_answer_form %>
 
-  <%= erb :_next_or_finished %>
-<% end %>  
 
-<h4>Your score is <%= "#{session[:points]} (#{ (session[:points]*100)/(@pairs.size*9) }%)" %> points.</h4>
+  <% elsif @status == "failure" %>
+
+    <% @attempts.each do |attempt| %>
+      <h4><i class="wrong"><%= attempt %></i></h4>
+    <% end %>
+
+    <% @current_question_answers.each do |answer| %>
+      <h4 class="answer"><%= answer %></h4>
+    <% end %>
+
+    <%= erb :_next_or_finished %>
+
+      
+  <% elsif @status == "correct" %>
+
+    <% @attempts.each do |attempt| %>
+      <% if attempt == @attempts[-1] %>
+        <h4><i class="right"><%= attempt %></i></h4>
+      <% else %>
+        <h4><i class="wrong"><%= attempt %></i></h4>
+      <% end %> 
+    <% end %>
+
+    <%= erb :_next_or_finished %>
+
+  <% end %>  
+</div>
+<h5>Your score is <%= "#{session[:points]} (#{ (session[:points]*100)/(@pairs.size*9) }%)" %> points.</h5>
+
