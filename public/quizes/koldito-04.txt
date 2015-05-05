@@ -1,0 +1,40 @@
+Yo trabajo un montón.
+/I( do)? work a lot\./
+¿Trabaja ella en Pamplona?
+/Does she work in Pamplona\?/
+Ellos no trabajan aquí.
+/They (don't|do not) work here\./
+Tengo cuarenta años.
+/I('m| am) (forty|40)( years old)?\./
+¿Estás escuchando música? (listen necesita la preposición 'to')
+/Are you listening to music\?/
+Ella no te está escuchando.
+/She('s not| isn't| is not) listening to you\./
+No estoy escuchando las noticias.
+/I('m| am) not listening to the news\./
+¿Vio usted a mi abuela? (see no necesita preposición)
+/Did you see my grandmother\?/
+¿Qué vio usted?
+/What did you see\?/
+Yo vi tres tristes tigres.
+/I saw three sad tigers\./
+¿Estabas escuchándome?
+/Were you listening to me\?/
+Ellos no estaban trabajando.
+/They (were|weren't) working\./
+Ella ha desayunado en Taberna. (emplazamientos concretos con 'at', el verbo desayunar no existe)
+/She('s| has) had( her)? breakfast at Taberna\./
+¿Alguna vez has hablado con mi abuelo? (pregunta hazañas con 'Have you ever...?')
+/Have you ever (talked|spoken) (with|to) my grandfather\?/
+No he visto a Jose Miguel hoy.
+/I have(n't| not) seen Jose Miguel today\./
+¿Puedes escuchar esto?
+/Can you listen to this\?/
+¿Podrías decir algo? (decir algo es con 'say')
+/Could you say something\?/
+¿Podrías decirme algo? (decir a alguien algo es con 'tell')
+/Could you tell me something\?/
+Eso no debería ser difícil.
+/That should(n't| not) be (complicated|difficult|hard)\./
+Ella debe dejar ese trabajo. (dejar, abandonar es 'quit'; trabajo como puesto es 'job')
+/She must quit that job\./

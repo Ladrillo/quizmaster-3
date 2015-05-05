@@ -1,7 +1,7 @@
 No pudimos derrotar a Oberena.
-/We (couldn't|could not|were not able to|weren't able to|were unable to) beat Oberena\./
+/We (couldn't|could not|were not able to|weren't able to|were unable to) (defeat|beat) Oberena\./
 Oberena no pudo ser derrotada.
-/Oberena (couldn't|could not) be beaten\./
+/Oberena (couldn't|could not) be (defeated|beaten)\./
 Un perro me mordió. ¿Debería ir al médico?
 /A dog bit me\. Should I go to the doctor\?/
 Mi hija fue mordida por un perro. ¿Deberíamos llevarla al hospital?
