@@ -27,7 +27,7 @@ Ella ha desayunado en Taberna. (emplazamientos concretos con 'at', el verbo desa
 ¿Alguna vez has hablado con mi abuelo? (pregunta hazañas con 'Have you ever...?')
 /Have you ever (talked|spoken) (with|to) my grandfather\?/
 No he visto a Jose Miguel hoy.
-/I have(n't| not) seen Jose Miguel today\./
+/I('ve not| haven't| have not) seen Jose Miguel today\./
 ¿Puedes escuchar esto?
 /Can you listen to this\?/
 ¿Podrías decir algo? (decir algo es con 'say')

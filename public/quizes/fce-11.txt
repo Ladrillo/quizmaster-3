@@ -1,4 +1,4 @@
-El olor en ese lugar me da bajón. <- Usar phrasal
+El olor de ese lugar me da bajón. <- Usar phrasal
 /The smell (in|at|of) that place puts me off\./
 Creo que la alarma sonará a las siete. <- Usar phrasal
 /I (believe|think|reckon|guess)( that)? the alarm will go off at seven( o'clock)?\./
@@ -14,7 +14,7 @@ Me hicieron las uñas en un lugar muy barato.
 /I (had|got) my nails done at a very cheap place\./
 Ella me acusó de espiarle.
 /She accused me of spying( on her)?\./
-Hagas lo que hagas, no te marches sin pagar.
-/Whatever you do, (don't|do not) (leave|go) without paying\./
+Hazme un favor: no te marches sin pagar.
+/Do me a favor: (don't|do not) (leave|go) without paying\./
 Deberías haber preguntado antes de tomar prestada mi bici.
 /You (should've|should have|ought to have) asked( me)? before borrowing my (bike|bicycle)\./
