@@ -1,6 +1,6 @@
 Esta subvención no es para ti.
 /This subsidy('s| is not| isn't for you)\./
 La culpa es de los fontaneros.
-/(The plumbers are to blame|(It's|It is) the plumbers' fault\./
+/(The plumbers are to blame|(It's|It is) the plumbers' fault)\./
 Tres es mejor que uno.
 /Three('s| is) better than one\./
