@@ -1,0 +1,16 @@
+People believe that tablets are better than computers. -> Tablets are believed to be better than computers.
+/Tablets are believed to be better than computers\./
+People think that Peter is very rich. Peter is ____ to be very rich.
+/Peter('s| is) thought to be very rich\./
+People believe that Osasuna is doing better. Osasuna ____ better.
+/Osasuna('s| is) believed to be doing better\./
+People know that many politicians are liars. Many politicians ____ liars.
+/Many politicians are known to be liars\./
+Somebody did my hair for me. -> I had my hair done.
+/I had my hair done\./
+Somebody is repairing my computer for me. -> I am having ____ repaired.
+/I('m| am) having my computer repaired\./
+Somebody will paint my house for me. -> I will ____ painted.
+/I('ll| will) have my house painted\./
+Somebody renewed my driver licence for me. -> I ____ renewed.
+/I had my driver licence renewed\./
