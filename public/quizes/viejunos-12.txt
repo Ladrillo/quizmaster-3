@@ -3,7 +3,7 @@ People believe that tablets are better than computers. -> Tablets are believed t
 People think that Peter is very rich. Peter is ____ to be very rich.
 /Peter('s| is) thought to be very rich\./
 People believe that Osasuna is doing better. Osasuna ____ better.
-/Osasuna('s| is) believed to be doing better\./
+/Osasuna('s| is| are) believed to be doing better\./
 People know that many politicians are liars. Many politicians ____ liars.
 /Many politicians are known to be liars\./
 Somebody did my hair for me. -> I had my hair done.
