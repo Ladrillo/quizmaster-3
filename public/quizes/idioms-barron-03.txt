@@ -2,10 +2,10 @@ Ella tal vez pueda ayudarnos en un rato. -> She ____ .
 /She (may|might|could) be able to (help us( out)?|give us a hand) in a while\./
 De hecho, aún no nos conocemos. -> In ____ yet. (met)
 /In (fact|reality), we have(n't| not) met yet\./
-Hagamos algo al respecto, en lugar de quejarnos. -> Let's ____ complaining.
+Hagamos algo al respecto, en lugar de quejarnos. -> Let's ____ complaining. (about)
 /Let('s| us) do something about it, instead of complaining\./
 Eduardo no entregó su redacción a tiempo. -> Eduardo ____ time.
-/Eduardo did(n't| not) (hand in|turn in|submit) his essay	 on time\./
+/Eduardo did(n't| not) (hand in|turn in|submit) his essay in time\./
 Con el tiempo, lo comprenderás. -> In ____ understand.
 /In time, you('ll| will) understand( it)?\./
 No es de extrañar que perdieras el tren. -> It's ____ train.
