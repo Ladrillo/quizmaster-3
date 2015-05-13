@@ -9,7 +9,7 @@
 <% else %>
 
   <h3> You have selected '<%= params[:quiz] %>'</h3>
-  <a href="/quizmaster?quiz=<%= params[:quiz] %>&q=0">YES! Take me to the quiz!</a></br>
-  <a href="/">NO! I want to select a different quiz.</a>
+  <div class="gabri-button"><p>YES!</p><a href="/quizmaster?quiz=<%= params[:quiz] %>&q=0">Take me to the quiz!</a></div></br>
+  <div class="gabri-button"><p>NO!</p><a href="/">I want to select a different quiz.</a></div>
 
 <% end %>

@@ -4,8 +4,8 @@ De hecho, aún no nos conocemos. -> In ____ yet. (met)
 /In (fact|reality), we have(n't| not) met yet\./
 Hagamos algo al respecto, en lugar de quejarnos. -> Let's ____ complaining. (about)
 /Let('s| us) do something about it, instead of complaining\./
-Eduardo no entregó su redacción a tiempo. -> Eduardo ____ time.
-/Eduardo did(n't| not) (hand in|turn in|submit) his essay in time\./
+Eddie no entregó su redacción a tiempo. -> Eduardo ____ time.
+/Eddie did(n't| not) (hand in|turn in|submit) his (composition|essay) in time\./
 Con el tiempo, lo comprenderás. -> In ____ understand.
 /In time, you('ll| will) understand( it)?\./
 No es de extrañar que perdieras el tren. -> It's ____ train.
@@ -35,7 +35,7 @@ Todo el mundo respeta al Sr. Smith. -> Everybody ____ Smith. (up)
 Esto no supondrá ninguna diferencia. -> This ____ difference. (make)
 /This ((will not|won't) make (any|a)|will make no) difference\./
 ¿A qué te dedicas? -> How ____ living?
-/How do you make a living\?/
+/How do you (earn|make) a living\?/
 ¿A dónde quieres llegar a parar? -> What ____ point?
 /What('s| is) your point\?/
 Él siempre se está burlando de mi. -> He ____ me. (fun)

@@ -1,5 +1,5 @@
-No hemos tenido noticias de Gurb desde ayer.
-/(We've not|We have not|We haven't) heard from Gurb since yesterday\./
+No hemos sabido de Gurb desde ayer.
+/(We've not|We have not|We haven't) heard( anything)? from Gurb since yesterday\./
 Beber y conducir no es recomendable. (No comenzar por 'It', no usar 'recommended'.)
 /Drinking and driving (is not|isn't) advisable\./
 La temperatura está subiendo.
@@ -14,3 +14,11 @@ Prometimos no olvidar.
 /We promised not to forget\./
 El caracol apenas se había movido.
 /The snail (hardly had|had hardly) moved\./
+Casi nunca vemos a John. (No es correcto 'Almost never'.)
+/We hardly ever see John\./
+El humo está subiendo.
+/(The smoke|Smoke) is rising\./
+Mi empresa está subiendo salarios.
+/My (firm|company) is raising( the)? salaries\./
+No hemos sabido de Anna desde hace dos días.
+/We have(n't| not) heard( anything)? from Anna (for two days|since two days ago)\./

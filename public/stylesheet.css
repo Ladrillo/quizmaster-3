@@ -14,6 +14,16 @@
 	color: #337ab7;
 }
 
+div.gabri-button {
+    width: 100px;
+    border-radius: 5px;
+    background-color: #c3d9f7;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Sans-Serif;
+    opacity: 0.5;
+}
+
 /*body {
 	padding: 0px;
 	border: 0px solid black;

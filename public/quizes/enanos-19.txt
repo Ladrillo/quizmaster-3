@@ -1,0 +1,48 @@
+¿Qué estás escuchando?
+/What are you listening to\?/
+¿Qué has estado haciendo?
+/What have you been doing\?/
+¿Has estado en China alguna vez?
+/Have you ever been (to|in) China\?/
+El perro desaparecido no ha sido encontrado. ('desaparecido' -> 'missing', adjetivo)
+/The missing dog has(n't| not) been found\./
+¿Cuándo empieza la película? Aún no sé.
+/When does the (film|movie) (begin|start)\? (I do(n't| not) know yet|I still do(n't| not) know)\./
+¿Cuántos años tienen tus padres?
+/How old are your parents\?/
+Olvidé tu nombre.
+/I forgot your name\./
+Dejé mi tarea en casa.
+/I left my homework( at)? home\./
+¿Te gustaría ir a pescar?
+/Would you like to go fishing\?/
+Ella no debería fumar tantos cigarrillos.
+/She (shouldn't|should not|ought not to) smoke so many cigarettes\./
+Si tú estudiaras tú aprobarías.
+/If you studied (you'd|you would) pass\./
+Si tú hubieras estudiado tú habrías aprobado.
+/If (you'd|you had) studied (you'd|you would) have passed\./
+Este es el dormitorio de mis padres.
+/This is my parents' bedroom\./
+¿Dónde está el baño de señoras?
+/Where('s| is) the ladies' room\?/
+¿Cómo de a menudo vas al cine?
+/How (often|frequently) do you go to the (movies|cinema)\?/
+Ronaldo es un buen jugador, pero Messi es incluso mejor.
+/Ronaldo is a good player, but Messi is even better\./
+Yo no soy tan alto como mi hermano.
+/I('m| am) not as tall as my brother\./
+Yo no podré ir esta tarde.
+/I (will not|won't) be able to go this (afternoon|evening)\./
+Mi profesor va a llamar a mis padres.
+/My teacher('s| is) going to (phone|call) my parents\./
+Las bicis de mi amigos fueron robadas anoche.
+/My friends' (bikes|bicycles) were stolen last night\./
+Si yo fuera tú...
+/If I were you\.\.\./
+Mis libros están en la mesa.
+/My books are on the table\./
+Mi padre es médico y trabaja en el hospital.
+/My father('s| is) a doctor and( he)? works at the hospital\./
+No debes olvidar mis palabras.
+/You (must not|mustn't) forget my words\./
