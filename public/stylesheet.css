@@ -16,12 +16,14 @@
 
 div.gabri-button {
     width: 100px;
-    border-radius: 5px;
+    height: 100px;
+    border-radius: 100%;
     background-color: #c3d9f7;
     text-align: center;
     color: #FFFFFF;
     font-family: Verdana, Arial, Sans-Serif;
     opacity: 0.5;
+    display: inline-block;
 }
 
 /*body {

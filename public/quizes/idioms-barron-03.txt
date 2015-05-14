@@ -4,7 +4,7 @@ De hecho, aún no nos conocemos. -> In ____ yet. (met)
 /In (fact|reality), we have(n't| not) met yet\./
 Hagamos algo al respecto, en lugar de quejarnos. -> Let's ____ complaining. (about)
 /Let('s| us) do something about it, instead of complaining\./
-Eddie no entregó su redacción a tiempo. -> Eduardo ____ time.
+Eddie no entregó su redacción a tiempo. -> Eddie ____ time.
 /Eddie did(n't| not) (hand in|turn in|submit) his (composition|essay) in time\./
 Con el tiempo, lo comprenderás. -> In ____ understand.
 /In time, you('ll| will) understand( it)?\./
@@ -19,7 +19,7 @@ Avísame si el piloto empieza a hacer locuras. -> Let ____ acting crazy.
 Déjame ver. 
 /Let me see\./
 Encuentro aburrido cuidar a niños. -> I ____ boring. (after)
-/I find looking after children boring\./
+/I find looking after (kids|children) boring\./
 ¿Qué estás buscando?
 /What are you looking for\?/
 Estoy impaciente por saber de ti. -> I ____ you. (forward)
