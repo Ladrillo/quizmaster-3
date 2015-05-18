@@ -17,6 +17,6 @@ Haga lo que haga, nunca es suficiente. -> No ____ enough.
 ¿Estás ocupado? En absoluto. -> Are ____ all.
 /Are you busy\? Not at all\./
 No es de extrañar que perdieras el autobús! -> No ____ bus!
-/No wonder( that)? you('ve| have)? missed the bus!/
+/No wonder( that)? you('ve| have)? missed (your|the) bus!/
 Terminemos esto, de una vez por todas. -> Let's ____ all. (once)
 /Let's (finish|end) this, once and for all\./
