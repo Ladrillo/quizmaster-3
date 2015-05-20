@@ -1,8 +1,9 @@
 # encoding: UTF-8
-# require 'rubygems'
+# require 'pry'
+
+require 'rubygems'
 require 'regexp-examples'
 require 'sinatra'
-# require 'pry'
 
 
 enable :sessions

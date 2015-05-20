@@ -21,7 +21,7 @@ Yo vi tres tristes tigres.
 ¿Estabas escuchándome?
 /Were you listening to me\?/
 Ellos no estaban trabajando.
-/They (were|weren't) working\./
+/They (were not|weren't) working\./
 Ella ha desayunado en Taberna. (emplazamientos concretos con 'at', el verbo desayunar no existe)
 /She('s| has) had( her)? breakfast at Taberna\./
 ¿Alguna vez has hablado con mi abuelo? (pregunta hazañas con 'Have you ever...?')
